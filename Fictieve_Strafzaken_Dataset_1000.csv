@@ -1,0 +1,1001 @@
+ECLI,jaartal_delict,jaartal_uitspraak,regionale_eenheid,veroordeling,tenlastelegging,modus_operandi,geslacht_dader,geslacht_slachtoffer,strafmaat,moord_of_doodslag,verweer_verdediging,bewijstypen,aanleiding,gedraging,gevolg
+ECLI:NL:HR:2015:4606,2015,2014,Noord-Nederland,Moord,Poging tot moord,Wurging,Vrouw,Vrouw,15,Moord,Geen verweer,Getuigenverklaring,Financieel,Vergiftiging,Dood direct
+ECLI:NL:PHR:2018:2386,2011,2022,Amsterdam,Vrijspraak,Doodslag,Wurging,Man,Vrouw,10,Doodslag,Ontkenning,Bekentenis,Financieel,Verstikking,Dood direct
+ECLI:NL:HR:2023:1524,2018,2013,Noord-Nederland,Doodslag,Doodslag,Wurging,Man,Man,20,Doodslag,Geen verweer,Getuigenverklaring,Psychose,Steekpartij,Zwaar gewond
+ECLI:NL:RBDHA:2015:588,2017,2014,Midden-Nederland,Doodslag,Moord,Anders,Man,Man,20,Doodslag,Ontkenning,Bekentenis,Relatieproblemen,Schietpartij,Zwaar gewond
+ECLI:NL:HR:2018:3911,2010,2022,Rotterdam,Vrijspraak,Doodslag,Mes,Man,Vrouw,10,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:HR:2023:3357,2015,2011,Amsterdam,Doodslag,Poging tot moord,Wurging,Man,Man,10,Doodslag,Noodweer,Getuigenverklaring,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2018:7459,2013,2020,Midden-Nederland,Doodslag,Poging tot moord,Wurging,Vrouw,Vrouw,12,Doodslag,Ontkenning,Observatie,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:GHARL:2015:2715,2014,2019,Rotterdam,Moord,Moord,Wurging,Man,Man,15,Moord,Ontkenning,Getuigenverklaring,Psychose,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2020:4652,2019,2013,Amsterdam,Moord,Poging tot moord,Vuurwapen,Man,Man,15,Doodslag,Ontkenning,Observatie,Ruzie,Verstikking,Dood direct
+ECLI:NL:PHR:2018:5614,2022,2012,Midden-Nederland,Moord,Doodslag,Mes,Man,Vrouw,12,Doodslag,Geen verweer,Getuigenverklaring,Financieel,Schietpartij,Dood direct
+ECLI:NL:HR:2016:6324,2014,2016,Rotterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,10,Doodslag,Noodweer,Getuigenverklaring,Relatieproblemen,Schietpartij,Zwaar gewond
+ECLI:NL:HR:2020:5735,2021,2022,Rotterdam,Moord,Poging tot moord,Wurging,Man,Vrouw,10,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2015:7627,2019,2021,Rotterdam,Doodslag,Moord,Vuurwapen,Man,Man,10,Moord,Ontkenning,Forensisch bewijs,Financieel,Steekpartij,Geen letsel
+ECLI:NL:HR:2021:1391,2013,2023,Rotterdam,Vrijspraak,Poging tot moord,Vuurwapen,Vrouw,Vrouw,15,Doodslag,Noodweer,Bekentenis,Relatieproblemen,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2020:9559,2017,2011,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2016:850,2015,2017,Oost-Nederland,Moord,Doodslag,Anders,Man,Man,10,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:PHR:2019:1407,2019,2021,Oost-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,8,Doodslag,Noodweer,Observatie,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2016:6327,2017,2015,Rotterdam,Moord,Moord,Mes,Man,Man,20,Moord,Noodweer,Bekentenis,Ruzie,Schietpartij,Geen letsel
+ECLI:NL:GHARL:2022:6077,2022,2023,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,8,Moord,Ontkenning,Getuigenverklaring,Ruzie,Schietpartij,Dood later
+ECLI:NL:PHR:2020:5920,2022,2019,Oost-Nederland,Doodslag,Moord,Anders,Man,Vrouw,8,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2019:1269,2013,2020,Amsterdam,Doodslag,Moord,Wurging,Man,Man,10,Moord,Noodweer,Bekentenis,Financieel,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2023:4110,2021,2011,Noord-Nederland,Moord,Doodslag,Vuurwapen,Man,Vrouw,8,Doodslag,Geen verweer,Observatie,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2022:6316,2018,2020,Oost-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,10,Moord,Geen verweer,Getuigenverklaring,Psychose,Steekpartij,Dood direct
+ECLI:NL:GHARL:2023:3698,2022,2011,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Verstikking,Dood direct
+ECLI:NL:GHARL:2015:3852,2022,2021,Midden-Nederland,Doodslag,Moord,Wurging,Man,Vrouw,12,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Schietpartij,Zwaar gewond
+ECLI:NL:HR:2020:6672,2013,2012,Noord-Nederland,Doodslag,Poging tot moord,Wurging,Man,Man,15,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2016:3556,2012,2021,Rotterdam,Doodslag,Poging tot moord,Wurging,Man,Man,20,Moord,Noodweer,Getuigenverklaring,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:GHARL:2018:8279,2010,2024,Rotterdam,Vrijspraak,Moord,Vergif,Vrouw,Vrouw,20,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2022:2440,2016,2011,Oost-Nederland,Moord,Doodslag,Wurging,Man,Man,8,Moord,Geen verweer,Bekentenis,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:GHARL:2017:4140,2010,2011,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,12,Doodslag,Geen verweer,Observatie,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2021:9660,2013,2022,Midden-Nederland,Doodslag,Doodslag,Mes,Man,Vrouw,10,Moord,Geen verweer,Bekentenis,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2020:3693,2018,2012,Oost-Nederland,Moord,Doodslag,Vuurwapen,Man,Man,20,Moord,Geen verweer,Bekentenis,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:PHR:2023:8185,2015,2017,Oost-Nederland,Vrijspraak,Poging tot moord,Mes,Vrouw,Man,15,Doodslag,Noodweer,Getuigenverklaring,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:HR:2015:1896,2020,2018,Rotterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,10,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Schietpartij,Zwaar gewond
+ECLI:NL:PHR:2017:7016,2021,2017,Oost-Nederland,Vrijspraak,Moord,Wurging,Man,Vrouw,10,Doodslag,Noodweer,Forensisch bewijs,Psychose,Verstikking,Zwaar gewond
+ECLI:NL:HR:2021:6352,2010,2012,Rotterdam,Moord,Moord,Wurging,Vrouw,Man,20,Doodslag,Noodweer,Observatie,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:RBDHA:2023:4219,2015,2019,Oost-Nederland,Poging tot moord,Doodslag,Mes,Man,Vrouw,15,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:HR:2016:8897,2010,2015,Rotterdam,Moord,Doodslag,Anders,Man,Vrouw,20,Doodslag,Ontkenning,Bekentenis,Ruzie,Verstikking,Dood direct
+ECLI:NL:GHARL:2020:1927,2022,2018,Oost-Nederland,Doodslag,Moord,Mes,Man,Man,12,Doodslag,Ontkenning,Bekentenis,Wraak,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2021:2691,2020,2022,Amsterdam,Moord,Poging tot moord,Mes,Man,Man,12,Doodslag,Geen verweer,Bekentenis,Psychose,Verstikking,Dood later
+ECLI:NL:RBDHA:2015:4415,2016,2013,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,20,Doodslag,Noodweer,Bekentenis,Wraak,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2023:1843,2021,2014,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,20,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2023:3358,2021,2022,Rotterdam,Doodslag,Doodslag,Wurging,Vrouw,Vrouw,10,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:PHR:2020:2746,2014,2021,Rotterdam,Doodslag,Doodslag,Mes,Man,Man,8,Doodslag,Ontkenning,Observatie,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:HR:2020:8105,2011,2021,Oost-Nederland,Vrijspraak,Moord,Mes,Man,Man,15,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:HR:2016:6047,2013,2011,Noord-Nederland,Moord,Moord,Wurging,Man,Man,15,Doodslag,Noodweer,Bekentenis,Financieel,Verstikking,Dood direct
+ECLI:NL:GHARL:2018:1049,2018,2015,Noord-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,15,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:PHR:2016:1503,2013,2017,Amsterdam,Doodslag,Poging tot moord,Mes,Vrouw,Man,8,Doodslag,Geen verweer,Observatie,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2016:8827,2016,2021,Oost-Nederland,Poging tot moord,Poging tot moord,Wurging,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:PHR:2017:7887,2017,2012,Amsterdam,Moord,Doodslag,Wurging,Man,Man,8,Moord,Ontkenning,Observatie,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2019:8745,2010,2021,Midden-Nederland,Moord,Doodslag,Anders,Man,Man,10,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:RBDHA:2018:8935,2012,2019,Midden-Nederland,Doodslag,Poging tot moord,Mes,Man,Vrouw,20,Moord,Ontkenning,Getuigenverklaring,Wraak,Slag met voorwerp,Geen letsel
+ECLI:NL:PHR:2019:6637,2021,2015,Oost-Nederland,Doodslag,Doodslag,Mes,Man,Man,12,Doodslag,Noodweer,Forensisch bewijs,Psychose,Steekpartij,Dood direct
+ECLI:NL:GHARL:2022:8579,2014,2020,Midden-Nederland,Moord,Doodslag,Vuurwapen,Man,Man,8,Doodslag,Noodweer,Bekentenis,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2016:4161,2011,2020,Rotterdam,Doodslag,Poging tot moord,Wurging,Man,Vrouw,8,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:PHR:2016:5639,2010,2022,Noord-Nederland,Doodslag,Moord,Vuurwapen,Vrouw,Man,15,Moord,Noodweer,Observatie,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:HR:2023:3870,2013,2013,Midden-Nederland,Moord,Moord,Mes,Man,Man,10,Doodslag,Geen verweer,Getuigenverklaring,Wraak,Steekpartij,Dood direct
+ECLI:NL:PHR:2015:1263,2018,2017,Oost-Nederland,Moord,Moord,Wurging,Man,Vrouw,8,Doodslag,Noodweer,Observatie,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2018:1204,2016,2024,Noord-Nederland,Doodslag,Poging tot moord,Mes,Vrouw,Man,20,Doodslag,Ontkenning,Bekentenis,Wraak,Schietpartij,Dood later
+ECLI:NL:HR:2020:1260,2021,2012,Amsterdam,Moord,Moord,Mes,Man,Man,20,Moord,Geen verweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:PHR:2019:8053,2015,2019,Noord-Nederland,Doodslag,Poging tot moord,Wurging,Man,Vrouw,12,Moord,Geen verweer,Bekentenis,Financieel,Schietpartij,Dood later
+ECLI:NL:PHR:2023:2267,2017,2022,Amsterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2018:7849,2021,2020,Rotterdam,Doodslag,Doodslag,Anders,Man,Man,10,Moord,Noodweer,Bekentenis,Ruzie,Schietpartij,Dood later
+ECLI:NL:RBDHA:2018:1645,2011,2012,Rotterdam,Doodslag,Poging tot moord,Vergif,Man,Man,12,Doodslag,Ontkenning,Observatie,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2021:5904,2019,2015,Oost-Nederland,Moord,Doodslag,Anders,Man,Man,12,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:RBDHA:2021:7751,2011,2012,Amsterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Man,15,Moord,Ontkenning,Bekentenis,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:HR:2016:1093,2018,2023,Oost-Nederland,Doodslag,Poging tot moord,Vergif,Man,Vrouw,12,Moord,Ontkenning,Bekentenis,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2020:1890,2012,2012,Oost-Nederland,Poging tot moord,Moord,Wurging,Man,Vrouw,8,Moord,Geen verweer,Getuigenverklaring,Psychose,Schietpartij,Dood direct
+ECLI:NL:PHR:2018:3216,2020,2018,Midden-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Vrouw,10,Moord,Noodweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:RBDHA:2017:7012,2016,2014,Rotterdam,Doodslag,Doodslag,Vuurwapen,Man,Vrouw,12,Moord,Ontkenning,Observatie,Financieel,Steekpartij,Dood direct
+ECLI:NL:PHR:2019:7679,2011,2020,Amsterdam,Poging tot moord,Poging tot moord,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Steekpartij,Dood direct
+ECLI:NL:PHR:2016:7360,2019,2014,Oost-Nederland,Poging tot moord,Moord,Mes,Vrouw,Man,20,Doodslag,Ontkenning,Bekentenis,Ruzie,Steekpartij,Dood direct
+ECLI:NL:HR:2015:8956,2019,2023,Oost-Nederland,Moord,Moord,Wurging,Man,Vrouw,20,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Verstikking,Zwaar gewond
+ECLI:NL:HR:2016:3972,2010,2015,Rotterdam,Doodslag,Moord,Wurging,Man,Man,10,Moord,Ontkenning,Forensisch bewijs,Ruzie,Verstikking,Dood later
+ECLI:NL:PHR:2021:8056,2016,2024,Rotterdam,Doodslag,Poging tot moord,Wurging,Man,Vrouw,20,Doodslag,Geen verweer,Observatie,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2018:6670,2020,2019,Oost-Nederland,Doodslag,Moord,Wurging,Man,Man,20,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:HR:2017:6309,2012,2014,Noord-Nederland,Poging tot moord,Moord,Vuurwapen,Man,Man,20,Doodslag,Noodweer,Observatie,Psychose,Verstikking,Geen letsel
+ECLI:NL:HR:2021:4445,2013,2016,Rotterdam,Doodslag,Moord,Mes,Man,Man,12,Moord,Noodweer,Getuigenverklaring,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2019:7030,2014,2022,Oost-Nederland,Moord,Doodslag,Vuurwapen,Man,Man,15,Doodslag,Noodweer,Bekentenis,Psychose,Steekpartij,Geen letsel
+ECLI:NL:RBDHA:2017:3211,2014,2017,Rotterdam,Doodslag,Poging tot moord,Vuurwapen,Vrouw,Vrouw,20,Doodslag,Geen verweer,Getuigenverklaring,Financieel,Verstikking,Dood direct
+ECLI:NL:GHARL:2018:1058,2015,2015,Oost-Nederland,Doodslag,Doodslag,Vergif,Man,Man,8,Doodslag,Noodweer,Forensisch bewijs,Financieel,Vergiftiging,Dood later
+ECLI:NL:HR:2020:1036,2022,2013,Rotterdam,Doodslag,Moord,Vuurwapen,Man,Man,20,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Steekpartij,Zwaar gewond
+ECLI:NL:HR:2022:8338,2016,2011,Midden-Nederland,Doodslag,Doodslag,Mes,Man,Man,8,Doodslag,Noodweer,Forensisch bewijs,Wraak,Schietpartij,Dood direct
+ECLI:NL:PHR:2015:8420,2021,2019,Midden-Nederland,Moord,Poging tot moord,Wurging,Vrouw,Vrouw,20,Doodslag,Ontkenning,Observatie,Wraak,Verstikking,Dood later
+ECLI:NL:HR:2017:1222,2021,2018,Noord-Nederland,Doodslag,Doodslag,Vergif,Man,Man,15,Doodslag,Geen verweer,Observatie,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:HR:2018:6715,2015,2014,Rotterdam,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,12,Doodslag,Noodweer,Observatie,Financieel,Schietpartij,Dood direct
+ECLI:NL:HR:2018:9585,2015,2022,Rotterdam,Poging tot moord,Moord,Mes,Man,Vrouw,8,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:HR:2016:6968,2017,2018,Amsterdam,Moord,Moord,Vergif,Man,Vrouw,8,Doodslag,Noodweer,Observatie,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2019:3446,2014,2016,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,12,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Vergiftiging,Dood later
+ECLI:NL:GHARL:2018:4451,2013,2014,Rotterdam,Doodslag,Doodslag,Vuurwapen,Man,Vrouw,15,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:RBDHA:2017:5015,2011,2011,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Man,12,Moord,Geen verweer,Observatie,Wraak,Slag met voorwerp,Zwaar gewond
+ECLI:NL:RBDHA:2020:1288,2013,2011,Midden-Nederland,Vrijspraak,Poging tot moord,Vuurwapen,Man,Vrouw,10,Moord,Ontkenning,Forensisch bewijs,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:HR:2022:9324,2012,2021,Noord-Nederland,Vrijspraak,Poging tot moord,Vuurwapen,Man,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:HR:2016:8908,2022,2012,Amsterdam,Poging tot moord,Moord,Vuurwapen,Man,Vrouw,8,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2023:4445,2022,2012,Rotterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,10,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Schietpartij,Dood direct
+ECLI:NL:PHR:2020:1227,2019,2024,Noord-Nederland,Doodslag,Poging tot moord,Mes,Man,Vrouw,10,Doodslag,Geen verweer,Observatie,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:PHR:2020:4769,2011,2020,Noord-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,20,Moord,Noodweer,Bekentenis,Wraak,Verstikking,Dood direct
+ECLI:NL:PHR:2022:9000,2012,2021,Noord-Nederland,Doodslag,Doodslag,Vuurwapen,Vrouw,Vrouw,12,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:GHARL:2023:228,2011,2018,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Verstikking,Dood later
+ECLI:NL:GHARL:2016:2300,2012,2013,Oost-Nederland,Moord,Moord,Anders,Man,Man,10,Moord,Ontkenning,Observatie,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:GHARL:2016:1853,2017,2012,Rotterdam,Moord,Doodslag,Vuurwapen,Man,Vrouw,15,Doodslag,Geen verweer,Bekentenis,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2019:4716,2017,2023,Oost-Nederland,Vrijspraak,Doodslag,Anders,Man,Man,8,Moord,Noodweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2020:3435,2015,2019,Midden-Nederland,Doodslag,Doodslag,Vergif,Vrouw,Vrouw,20,Moord,Geen verweer,Bekentenis,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:GHARL:2023:8104,2016,2012,Amsterdam,Doodslag,Doodslag,Mes,Man,Vrouw,20,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Steekpartij,Dood later
+ECLI:NL:GHARL:2015:1612,2011,2022,Midden-Nederland,Doodslag,Poging tot moord,Mes,Vrouw,Man,8,Doodslag,Noodweer,Getuigenverklaring,Wraak,Slag met voorwerp,Geen letsel
+ECLI:NL:RBDHA:2019:822,2018,2022,Amsterdam,Moord,Moord,Wurging,Man,Man,12,Moord,Noodweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2020:2243,2015,2012,Oost-Nederland,Doodslag,Moord,Mes,Man,Vrouw,8,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Steekpartij,Dood direct
+ECLI:NL:GHARL:2017:7339,2022,2015,Noord-Nederland,Doodslag,Moord,Wurging,Man,Man,15,Moord,Noodweer,Forensisch bewijs,Psychose,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2023:258,2013,2021,Noord-Nederland,Vrijspraak,Moord,Vergif,Man,Man,20,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:HR:2016:2542,2017,2014,Rotterdam,Doodslag,Poging tot moord,Mes,Vrouw,Vrouw,20,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:HR:2020:9643,2014,2018,Oost-Nederland,Moord,Doodslag,Mes,Vrouw,Man,8,Moord,Noodweer,Forensisch bewijs,Ruzie,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2021:2188,2017,2015,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,20,Doodslag,Ontkenning,Observatie,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:HR:2019:6074,2014,2015,Noord-Nederland,Doodslag,Doodslag,Wurging,Vrouw,Man,15,Doodslag,Ontkenning,Bekentenis,Wraak,Slag met voorwerp,Geen letsel
+ECLI:NL:HR:2020:3541,2011,2018,Noord-Nederland,Doodslag,Doodslag,Anders,Man,Vrouw,10,Doodslag,Ontkenning,Getuigenverklaring,Wraak,Schietpartij,Zwaar gewond
+ECLI:NL:PHR:2016:5894,2011,2011,Amsterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,12,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2017:3978,2012,2012,Amsterdam,Poging tot moord,Poging tot moord,Anders,Man,Vrouw,8,Doodslag,Ontkenning,Bekentenis,Ruzie,Verstikking,Dood direct
+ECLI:NL:PHR:2017:6855,2022,2024,Oost-Nederland,Vrijspraak,Moord,Wurging,Man,Vrouw,8,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:HR:2017:5542,2020,2013,Noord-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Observatie,Psychose,Schietpartij,Dood later
+ECLI:NL:RBDHA:2018:4471,2014,2024,Amsterdam,Doodslag,Moord,Mes,Man,Man,15,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Schietpartij,Zwaar gewond
+ECLI:NL:PHR:2016:6367,2021,2011,Midden-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,20,Doodslag,Noodweer,Observatie,Wraak,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2022:3744,2021,2024,Amsterdam,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,10,Moord,Ontkenning,Getuigenverklaring,Psychose,Steekpartij,Dood later
+ECLI:NL:PHR:2022:5828,2019,2015,Amsterdam,Doodslag,Doodslag,Mes,Man,Man,12,Doodslag,Ontkenning,Observatie,Wraak,Vergiftiging,Dood later
+ECLI:NL:GHARL:2018:3752,2010,2016,Amsterdam,Doodslag,Moord,Vuurwapen,Vrouw,Man,15,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Verstikking,Dood direct
+ECLI:NL:HR:2018:6628,2013,2023,Noord-Nederland,Vrijspraak,Doodslag,Anders,Man,Man,15,Doodslag,Noodweer,Forensisch bewijs,Financieel,Steekpartij,Dood later
+ECLI:NL:GHARL:2019:1237,2015,2021,Noord-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,12,Moord,Geen verweer,Forensisch bewijs,Psychose,Vergiftiging,Dood later
+ECLI:NL:GHARL:2020:8446,2012,2016,Amsterdam,Vrijspraak,Poging tot moord,Vuurwapen,Vrouw,Man,10,Doodslag,Geen verweer,Forensisch bewijs,Psychose,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2023:5525,2011,2017,Noord-Nederland,Vrijspraak,Doodslag,Wurging,Man,Vrouw,8,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:HR:2016:4379,2021,2022,Rotterdam,Moord,Poging tot moord,Mes,Man,Man,8,Moord,Geen verweer,Observatie,Financieel,Vergiftiging,Geen letsel
+ECLI:NL:PHR:2019:726,2013,2012,Amsterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Man,8,Doodslag,Noodweer,Observatie,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:HR:2021:5763,2015,2012,Rotterdam,Doodslag,Poging tot moord,Mes,Man,Man,10,Moord,Geen verweer,Forensisch bewijs,Financieel,Steekpartij,Dood direct
+ECLI:NL:GHARL:2021:8479,2016,2024,Amsterdam,Doodslag,Moord,Vergif,Man,Vrouw,20,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Schietpartij,Dood later
+ECLI:NL:HR:2021:9546,2018,2023,Amsterdam,Moord,Poging tot moord,Vergif,Man,Vrouw,20,Doodslag,Ontkenning,Forensisch bewijs,Financieel,Steekpartij,Dood direct
+ECLI:NL:PHR:2019:827,2010,2011,Amsterdam,Doodslag,Moord,Mes,Man,Man,15,Moord,Ontkenning,Getuigenverklaring,Financieel,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2015:8618,2020,2011,Noord-Nederland,Vrijspraak,Poging tot moord,Vergif,Man,Man,8,Moord,Ontkenning,Bekentenis,Psychose,Verstikking,Dood direct
+ECLI:NL:PHR:2020:7166,2014,2024,Noord-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,20,Moord,Ontkenning,Bekentenis,Psychose,Vergiftiging,Dood direct
+ECLI:NL:HR:2020:5243,2014,2013,Midden-Nederland,Doodslag,Moord,Mes,Vrouw,Man,15,Moord,Ontkenning,Forensisch bewijs,Ruzie,Schietpartij,Geen letsel
+ECLI:NL:HR:2019:8408,2012,2021,Noord-Nederland,Poging tot moord,Moord,Vuurwapen,Vrouw,Vrouw,8,Doodslag,Noodweer,Getuigenverklaring,Psychose,Verstikking,Dood direct
+ECLI:NL:GHARL:2021:5444,2010,2021,Noord-Nederland,Moord,Moord,Vergif,Man,Man,15,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2019:9183,2016,2013,Amsterdam,Moord,Moord,Vuurwapen,Man,Vrouw,15,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Schietpartij,Geen letsel
+ECLI:NL:PHR:2018:6988,2017,2016,Noord-Nederland,Poging tot moord,Poging tot moord,Vuurwapen,Man,Vrouw,10,Doodslag,Geen verweer,Bekentenis,Wraak,Verstikking,Zwaar gewond
+ECLI:NL:RBDHA:2017:9424,2018,2016,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,15,Moord,Noodweer,Observatie,Relatieproblemen,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2021:9077,2021,2018,Oost-Nederland,Vrijspraak,Moord,Anders,Man,Man,15,Moord,Noodweer,Observatie,Wraak,Verstikking,Dood direct
+ECLI:NL:HR:2019:4800,2018,2020,Amsterdam,Doodslag,Poging tot moord,Wurging,Man,Vrouw,20,Doodslag,Ontkenning,Forensisch bewijs,Wraak,Vergiftiging,Geen letsel
+ECLI:NL:PHR:2021:9602,2013,2015,Amsterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,10,Moord,Noodweer,Observatie,Ruzie,Verstikking,Geen letsel
+ECLI:NL:GHARL:2022:7338,2011,2022,Rotterdam,Doodslag,Moord,Wurging,Man,Man,8,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Steekpartij,Dood later
+ECLI:NL:RBDHA:2018:8475,2017,2012,Noord-Nederland,Vrijspraak,Moord,Wurging,Man,Vrouw,15,Doodslag,Noodweer,Forensisch bewijs,Psychose,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2017:1489,2011,2016,Noord-Nederland,Vrijspraak,Poging tot moord,Wurging,Man,Man,8,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2023:5591,2022,2024,Oost-Nederland,Vrijspraak,Doodslag,Vuurwapen,Man,Man,20,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Vergiftiging,Dood direct
+ECLI:NL:HR:2018:5185,2022,2016,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,12,Moord,Ontkenning,Forensisch bewijs,Financieel,Verstikking,Dood later
+ECLI:NL:PHR:2018:2514,2012,2013,Oost-Nederland,Moord,Moord,Vuurwapen,Vrouw,Vrouw,12,Moord,Geen verweer,Getuigenverklaring,Psychose,Steekpartij,Dood direct
+ECLI:NL:HR:2015:4111,2011,2012,Oost-Nederland,Doodslag,Moord,Vuurwapen,Vrouw,Vrouw,10,Moord,Noodweer,Observatie,Ruzie,Verstikking,Dood later
+ECLI:NL:RBDHA:2016:7561,2010,2017,Oost-Nederland,Doodslag,Moord,Vergif,Vrouw,Vrouw,12,Doodslag,Geen verweer,Forensisch bewijs,Wraak,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2018:6391,2010,2017,Midden-Nederland,Moord,Poging tot moord,Vuurwapen,Vrouw,Vrouw,15,Moord,Ontkenning,Observatie,Relatieproblemen,Verstikking,Zwaar gewond
+ECLI:NL:RBDHA:2021:4097,2022,2018,Amsterdam,Doodslag,Poging tot moord,Wurging,Vrouw,Man,8,Doodslag,Ontkenning,Observatie,Ruzie,Steekpartij,Geen letsel
+ECLI:NL:PHR:2015:1846,2013,2015,Oost-Nederland,Poging tot moord,Poging tot moord,Wurging,Man,Vrouw,10,Doodslag,Geen verweer,Observatie,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2018:2981,2012,2024,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Man,10,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2015:9232,2013,2017,Oost-Nederland,Doodslag,Moord,Mes,Man,Vrouw,8,Moord,Noodweer,Bekentenis,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2016:7578,2016,2022,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Man,20,Doodslag,Geen verweer,Forensisch bewijs,Financieel,Schietpartij,Dood direct
+ECLI:NL:PHR:2022:8802,2015,2024,Amsterdam,Vrijspraak,Moord,Vuurwapen,Man,Man,8,Moord,Noodweer,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:GHARL:2022:8370,2020,2018,Midden-Nederland,Vrijspraak,Doodslag,Anders,Man,Man,10,Moord,Noodweer,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:RBDHA:2023:7405,2020,2023,Rotterdam,Poging tot moord,Moord,Vergif,Vrouw,Man,15,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Vergiftiging,Dood later
+ECLI:NL:PHR:2022:7473,2020,2017,Rotterdam,Doodslag,Poging tot moord,Wurging,Man,Man,20,Moord,Ontkenning,Bekentenis,Ruzie,Slag met voorwerp,Geen letsel
+ECLI:NL:GHARL:2018:4643,2011,2021,Noord-Nederland,Moord,Poging tot moord,Wurging,Man,Man,20,Moord,Ontkenning,Observatie,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2018:4599,2019,2023,Rotterdam,Doodslag,Poging tot moord,Vergif,Man,Man,8,Moord,Noodweer,Getuigenverklaring,Wraak,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2016:4781,2019,2013,Midden-Nederland,Doodslag,Doodslag,Wurging,Man,Man,8,Moord,Geen verweer,Bekentenis,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:PHR:2019:5602,2014,2012,Midden-Nederland,Moord,Moord,Vuurwapen,Man,Vrouw,10,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Verstikking,Zwaar gewond
+ECLI:NL:GHARL:2023:1420,2011,2013,Rotterdam,Poging tot moord,Doodslag,Wurging,Man,Vrouw,8,Doodslag,Geen verweer,Observatie,Psychose,Schietpartij,Dood later
+ECLI:NL:PHR:2017:3888,2010,2022,Amsterdam,Vrijspraak,Poging tot moord,Wurging,Vrouw,Man,8,Moord,Ontkenning,Forensisch bewijs,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:RBDHA:2017:3605,2011,2022,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,8,Moord,Noodweer,Forensisch bewijs,Psychose,Vergiftiging,Dood direct
+ECLI:NL:HR:2021:6778,2013,2011,Noord-Nederland,Vrijspraak,Doodslag,Mes,Man,Vrouw,10,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Steekpartij,Zwaar gewond
+ECLI:NL:GHARL:2023:7733,2020,2024,Midden-Nederland,Moord,Moord,Vuurwapen,Man,Vrouw,15,Moord,Ontkenning,Bekentenis,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2015:3488,2017,2013,Amsterdam,Vrijspraak,Doodslag,Mes,Man,Vrouw,10,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2021:9669,2022,2012,Oost-Nederland,Vrijspraak,Moord,Wurging,Man,Vrouw,12,Doodslag,Noodweer,Observatie,Wraak,Steekpartij,Dood direct
+ECLI:NL:HR:2021:7914,2012,2017,Rotterdam,Poging tot moord,Moord,Vuurwapen,Man,Man,8,Moord,Noodweer,Bekentenis,Ruzie,Vergiftiging,Dood later
+ECLI:NL:HR:2020:4992,2011,2020,Rotterdam,Doodslag,Moord,Mes,Man,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Steekpartij,Geen letsel
+ECLI:NL:RBDHA:2021:8918,2022,2018,Oost-Nederland,Moord,Moord,Vuurwapen,Man,Man,12,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Steekpartij,Dood later
+ECLI:NL:PHR:2022:3695,2015,2023,Oost-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,20,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:GHARL:2021:8056,2011,2020,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,10,Doodslag,Geen verweer,Observatie,Wraak,Slag met voorwerp,Geen letsel
+ECLI:NL:HR:2021:5607,2010,2021,Oost-Nederland,Vrijspraak,Poging tot moord,Vergif,Man,Vrouw,12,Moord,Noodweer,Observatie,Financieel,Verstikking,Dood later
+ECLI:NL:RBDHA:2017:7757,2017,2018,Oost-Nederland,Doodslag,Moord,Mes,Man,Man,10,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:PHR:2023:541,2010,2013,Oost-Nederland,Moord,Moord,Anders,Vrouw,Man,20,Moord,Ontkenning,Forensisch bewijs,Psychose,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2015:1475,2012,2020,Midden-Nederland,Poging tot moord,Doodslag,Mes,Vrouw,Man,15,Doodslag,Geen verweer,Observatie,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2017:7664,2019,2017,Noord-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,15,Moord,Noodweer,Observatie,Financieel,Steekpartij,Dood direct
+ECLI:NL:PHR:2015:4362,2016,2023,Amsterdam,Doodslag,Doodslag,Wurging,Man,Man,8,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2020:3567,2021,2016,Amsterdam,Moord,Doodslag,Mes,Man,Vrouw,8,Moord,Geen verweer,Getuigenverklaring,Ruzie,Steekpartij,Dood later
+ECLI:NL:RBDHA:2020:5629,2016,2020,Rotterdam,Doodslag,Doodslag,Wurging,Man,Man,8,Doodslag,Noodweer,Observatie,Relatieproblemen,Steekpartij,Geen letsel
+ECLI:NL:RBDHA:2019:7006,2017,2011,Rotterdam,Moord,Poging tot moord,Vergif,Vrouw,Man,12,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:GHARL:2016:7805,2010,2024,Noord-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,20,Moord,Geen verweer,Getuigenverklaring,Ruzie,Schietpartij,Dood later
+ECLI:NL:HR:2023:953,2016,2021,Oost-Nederland,Doodslag,Doodslag,Vergif,Man,Man,10,Doodslag,Geen verweer,Bekentenis,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2018:1224,2020,2024,Oost-Nederland,Doodslag,Doodslag,Wurging,Man,Vrouw,15,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Steekpartij,Dood direct
+ECLI:NL:HR:2015:4151,2016,2022,Amsterdam,Doodslag,Moord,Vuurwapen,Man,Man,12,Doodslag,Noodweer,Observatie,Ruzie,Steekpartij,Dood later
+ECLI:NL:PHR:2015:2596,2012,2013,Midden-Nederland,Doodslag,Moord,Mes,Man,Man,10,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:PHR:2017:7858,2015,2018,Midden-Nederland,Vrijspraak,Moord,Vergif,Man,Man,15,Moord,Noodweer,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Zwaar gewond
+ECLI:NL:HR:2018:7719,2013,2018,Amsterdam,Doodslag,Poging tot moord,Mes,Vrouw,Man,12,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Schietpartij,Dood direct
+ECLI:NL:GHARL:2020:2849,2012,2012,Midden-Nederland,Moord,Moord,Vuurwapen,Vrouw,Vrouw,12,Moord,Ontkenning,Forensisch bewijs,Wraak,Slag met voorwerp,Dood later
+ECLI:NL:HR:2017:5196,2014,2017,Amsterdam,Moord,Moord,Vuurwapen,Man,Vrouw,20,Doodslag,Ontkenning,Observatie,Psychose,Verstikking,Dood direct
+ECLI:NL:HR:2015:5211,2014,2018,Rotterdam,Doodslag,Moord,Vergif,Man,Vrouw,12,Moord,Geen verweer,Bekentenis,Financieel,Steekpartij,Dood later
+ECLI:NL:RBDHA:2021:3349,2017,2011,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,10,Moord,Ontkenning,Bekentenis,Wraak,Verstikking,Zwaar gewond
+ECLI:NL:HR:2018:1769,2012,2012,Midden-Nederland,Moord,Poging tot moord,Mes,Man,Vrouw,20,Doodslag,Geen verweer,Observatie,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:GHARL:2016:9372,2010,2015,Rotterdam,Moord,Doodslag,Mes,Man,Man,12,Moord,Noodweer,Bekentenis,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:HR:2020:8828,2019,2021,Amsterdam,Moord,Moord,Mes,Man,Man,12,Moord,Ontkenning,Observatie,Ruzie,Verstikking,Dood direct
+ECLI:NL:RBDHA:2020:1229,2019,2016,Amsterdam,Moord,Moord,Mes,Man,Man,20,Doodslag,Noodweer,Bekentenis,Wraak,Verstikking,Dood direct
+ECLI:NL:GHARL:2015:6982,2019,2011,Oost-Nederland,Doodslag,Moord,Mes,Man,Man,20,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Geen letsel
+ECLI:NL:RBDHA:2016:7202,2013,2022,Oost-Nederland,Doodslag,Moord,Mes,Man,Vrouw,8,Moord,Geen verweer,Bekentenis,Financieel,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2022:2606,2020,2024,Amsterdam,Moord,Doodslag,Mes,Vrouw,Vrouw,8,Doodslag,Geen verweer,Bekentenis,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2017:8648,2014,2021,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,12,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2023:8021,2017,2019,Midden-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,15,Doodslag,Noodweer,Observatie,Financieel,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2021:9807,2016,2023,Midden-Nederland,Moord,Doodslag,Mes,Man,Man,20,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2020:4122,2018,2022,Midden-Nederland,Vrijspraak,Doodslag,Wurging,Man,Vrouw,15,Doodslag,Ontkenning,Observatie,Psychose,Steekpartij,Dood direct
+ECLI:NL:HR:2019:7485,2017,2020,Midden-Nederland,Moord,Moord,Vuurwapen,Man,Man,12,Moord,Ontkenning,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:PHR:2022:9436,2010,2022,Rotterdam,Moord,Poging tot moord,Mes,Man,Vrouw,8,Doodslag,Noodweer,Observatie,Ruzie,Verstikking,Dood later
+ECLI:NL:RBDHA:2020:570,2011,2020,Noord-Nederland,Moord,Moord,Mes,Vrouw,Man,10,Moord,Geen verweer,Getuigenverklaring,Financieel,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2020:3079,2014,2014,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,10,Doodslag,Noodweer,Forensisch bewijs,Wraak,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2018:5913,2016,2021,Rotterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Man,20,Moord,Geen verweer,Getuigenverklaring,Financieel,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2020:4681,2012,2024,Noord-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,10,Doodslag,Noodweer,Getuigenverklaring,Psychose,Schietpartij,Dood later
+ECLI:NL:GHARL:2023:266,2016,2016,Noord-Nederland,Moord,Poging tot moord,Vuurwapen,Vrouw,Man,12,Moord,Geen verweer,Bekentenis,Ruzie,Schietpartij,Dood later
+ECLI:NL:PHR:2016:4054,2013,2019,Midden-Nederland,Doodslag,Moord,Vuurwapen,Vrouw,Man,20,Doodslag,Noodweer,Observatie,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2022:9196,2020,2019,Rotterdam,Doodslag,Poging tot moord,Vergif,Man,Vrouw,10,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2022:8141,2022,2022,Rotterdam,Moord,Doodslag,Mes,Man,Man,8,Moord,Geen verweer,Forensisch bewijs,Wraak,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2015:1624,2018,2022,Rotterdam,Moord,Moord,Mes,Man,Vrouw,12,Doodslag,Noodweer,Observatie,Ruzie,Verstikking,Geen letsel
+ECLI:NL:GHARL:2018:6725,2013,2020,Oost-Nederland,Doodslag,Doodslag,Wurging,Man,Man,10,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Verstikking,Zwaar gewond
+ECLI:NL:PHR:2019:9628,2020,2012,Oost-Nederland,Moord,Doodslag,Vuurwapen,Man,Vrouw,8,Doodslag,Ontkenning,Bekentenis,Financieel,Schietpartij,Dood later
+ECLI:NL:GHARL:2022:9168,2022,2017,Oost-Nederland,Doodslag,Moord,Vuurwapen,Vrouw,Man,10,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2021:9117,2018,2021,Rotterdam,Doodslag,Moord,Wurging,Man,Man,15,Moord,Noodweer,Bekentenis,Psychose,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2020:7534,2022,2022,Midden-Nederland,Vrijspraak,Doodslag,Vuurwapen,Man,Vrouw,15,Doodslag,Noodweer,Observatie,Ruzie,Steekpartij,Dood later
+ECLI:NL:GHARL:2019:4218,2010,2014,Noord-Nederland,Doodslag,Doodslag,Mes,Man,Man,8,Moord,Ontkenning,Getuigenverklaring,Ruzie,Steekpartij,Dood direct
+ECLI:NL:PHR:2016:3255,2016,2018,Oost-Nederland,Doodslag,Moord,Mes,Man,Man,8,Moord,Noodweer,Forensisch bewijs,Financieel,Schietpartij,Dood later
+ECLI:NL:GHARL:2016:8879,2022,2016,Amsterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,15,Moord,Ontkenning,Forensisch bewijs,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:PHR:2018:3645,2021,2021,Midden-Nederland,Vrijspraak,Poging tot moord,Vuurwapen,Man,Vrouw,8,Doodslag,Ontkenning,Bekentenis,Financieel,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2019:9759,2015,2021,Rotterdam,Vrijspraak,Moord,Vuurwapen,Man,Man,12,Moord,Ontkenning,Forensisch bewijs,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2016:3280,2017,2021,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,12,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:GHARL:2018:6012,2018,2017,Midden-Nederland,Doodslag,Doodslag,Mes,Man,Vrouw,20,Doodslag,Noodweer,Getuigenverklaring,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2019:331,2022,2013,Oost-Nederland,Poging tot moord,Doodslag,Vergif,Man,Vrouw,15,Doodslag,Geen verweer,Observatie,Financieel,Verstikking,Dood later
+ECLI:NL:PHR:2019:845,2017,2024,Oost-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,12,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Steekpartij,Dood direct
+ECLI:NL:HR:2023:4886,2015,2024,Noord-Nederland,Doodslag,Moord,Anders,Vrouw,Man,8,Doodslag,Noodweer,Observatie,Psychose,Schietpartij,Dood direct
+ECLI:NL:PHR:2022:1780,2019,2019,Midden-Nederland,Moord,Poging tot moord,Wurging,Man,Man,8,Doodslag,Geen verweer,Bekentenis,Financieel,Verstikking,Zwaar gewond
+ECLI:NL:HR:2019:7790,2018,2020,Oost-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Man,12,Doodslag,Geen verweer,Forensisch bewijs,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2022:5682,2015,2011,Midden-Nederland,Poging tot moord,Moord,Vuurwapen,Man,Man,20,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2015:4236,2016,2011,Rotterdam,Doodslag,Poging tot moord,Wurging,Man,Vrouw,15,Doodslag,Noodweer,Bekentenis,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:RBDHA:2016:1170,2014,2021,Amsterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,15,Moord,Geen verweer,Bekentenis,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:RBDHA:2022:1313,2012,2013,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,8,Doodslag,Ontkenning,Bekentenis,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2017:2544,2010,2019,Amsterdam,Vrijspraak,Poging tot moord,Mes,Man,Man,15,Doodslag,Geen verweer,Bekentenis,Financieel,Verstikking,Dood later
+ECLI:NL:GHARL:2016:4166,2015,2024,Midden-Nederland,Doodslag,Doodslag,Wurging,Man,Man,15,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:HR:2023:6918,2019,2018,Noord-Nederland,Moord,Doodslag,Mes,Man,Man,15,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Verstikking,Dood direct
+ECLI:NL:PHR:2023:6332,2013,2024,Midden-Nederland,Moord,Doodslag,Anders,Man,Man,8,Doodslag,Ontkenning,Observatie,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2022:4971,2010,2018,Rotterdam,Vrijspraak,Doodslag,Vuurwapen,Vrouw,Vrouw,10,Moord,Geen verweer,Getuigenverklaring,Wraak,Verstikking,Dood later
+ECLI:NL:RBDHA:2019:9416,2022,2024,Oost-Nederland,Doodslag,Doodslag,Anders,Man,Man,10,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:HR:2016:3504,2022,2013,Noord-Nederland,Poging tot moord,Doodslag,Wurging,Vrouw,Man,15,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2019:1430,2014,2012,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,10,Moord,Geen verweer,Bekentenis,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2018:2947,2010,2023,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,15,Moord,Noodweer,Observatie,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:HR:2017:143,2022,2018,Oost-Nederland,Doodslag,Moord,Anders,Man,Man,20,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2022:9829,2017,2016,Oost-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Vrouw,8,Doodslag,Geen verweer,Bekentenis,Ruzie,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2019:634,2018,2014,Rotterdam,Vrijspraak,Doodslag,Mes,Man,Man,12,Moord,Ontkenning,Getuigenverklaring,Financieel,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2019:4732,2015,2016,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2016:3924,2022,2015,Oost-Nederland,Moord,Moord,Vergif,Vrouw,Man,20,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Vergiftiging,Dood later
+ECLI:NL:GHARL:2018:7065,2019,2011,Midden-Nederland,Doodslag,Moord,Mes,Man,Man,12,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:HR:2023:3783,2013,2019,Noord-Nederland,Doodslag,Moord,Anders,Man,Man,8,Moord,Ontkenning,Bekentenis,Ruzie,Slag met voorwerp,Geen letsel
+ECLI:NL:PHR:2019:2430,2012,2014,Noord-Nederland,Doodslag,Moord,Mes,Man,Vrouw,20,Moord,Geen verweer,Observatie,Ruzie,Steekpartij,Dood later
+ECLI:NL:HR:2015:2818,2011,2019,Rotterdam,Moord,Poging tot moord,Anders,Man,Vrouw,12,Moord,Geen verweer,Getuigenverklaring,Psychose,Verstikking,Dood direct
+ECLI:NL:GHARL:2019:7295,2013,2021,Noord-Nederland,Vrijspraak,Poging tot moord,Vuurwapen,Man,Man,12,Doodslag,Ontkenning,Observatie,Financieel,Steekpartij,Dood later
+ECLI:NL:HR:2022:5082,2020,2017,Rotterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,20,Moord,Ontkenning,Observatie,Financieel,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2019:8299,2013,2017,Oost-Nederland,Moord,Poging tot moord,Vergif,Man,Vrouw,10,Moord,Geen verweer,Forensisch bewijs,Financieel,Verstikking,Zwaar gewond
+ECLI:NL:RBDHA:2022:1417,2014,2024,Rotterdam,Moord,Moord,Vuurwapen,Vrouw,Man,8,Moord,Noodweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:HR:2021:5380,2018,2014,Rotterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Vrouw,12,Moord,Geen verweer,Observatie,Ruzie,Verstikking,Dood later
+ECLI:NL:GHARL:2015:1596,2022,2012,Rotterdam,Vrijspraak,Moord,Wurging,Man,Man,20,Moord,Noodweer,Forensisch bewijs,Financieel,Steekpartij,Dood later
+ECLI:NL:PHR:2015:4515,2021,2018,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,15,Moord,Noodweer,Bekentenis,Wraak,Verstikking,Zwaar gewond
+ECLI:NL:HR:2017:7808,2010,2018,Midden-Nederland,Doodslag,Poging tot moord,Vuurwapen,Vrouw,Vrouw,15,Doodslag,Ontkenning,Bekentenis,Financieel,Schietpartij,Dood later
+ECLI:NL:RBDHA:2019:3073,2022,2023,Midden-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,8,Doodslag,Ontkenning,Bekentenis,Financieel,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2022:1594,2013,2020,Rotterdam,Doodslag,Poging tot moord,Wurging,Man,Man,8,Moord,Geen verweer,Forensisch bewijs,Wraak,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2020:6790,2019,2018,Midden-Nederland,Doodslag,Moord,Vuurwapen,Vrouw,Man,20,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Verstikking,Geen letsel
+ECLI:NL:GHARL:2020:1813,2022,2012,Midden-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,15,Moord,Noodweer,Observatie,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:PHR:2020:6844,2016,2024,Amsterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,12,Doodslag,Noodweer,Observatie,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2019:6661,2015,2018,Oost-Nederland,Doodslag,Moord,Mes,Man,Man,20,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2022:1542,2012,2018,Rotterdam,Poging tot moord,Doodslag,Mes,Vrouw,Vrouw,15,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2019:5396,2012,2016,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,15,Doodslag,Ontkenning,Observatie,Ruzie,Steekpartij,Dood later
+ECLI:NL:HR:2021:8531,2013,2012,Noord-Nederland,Doodslag,Doodslag,Mes,Man,Man,20,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:HR:2023:7669,2019,2018,Rotterdam,Vrijspraak,Poging tot moord,Vuurwapen,Man,Man,20,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Slag met voorwerp,Zwaar gewond
+ECLI:NL:RBDHA:2015:3173,2015,2022,Rotterdam,Doodslag,Moord,Wurging,Man,Man,20,Doodslag,Noodweer,Bekentenis,Ruzie,Schietpartij,Dood direct
+ECLI:NL:GHARL:2022:7342,2022,2021,Rotterdam,Vrijspraak,Doodslag,Anders,Man,Man,12,Doodslag,Geen verweer,Bekentenis,Ruzie,Vergiftiging,Dood later
+ECLI:NL:HR:2018:4475,2021,2011,Amsterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Man,10,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:PHR:2019:7278,2021,2012,Noord-Nederland,Vrijspraak,Doodslag,Wurging,Vrouw,Man,15,Moord,Ontkenning,Observatie,Financieel,Verstikking,Dood direct
+ECLI:NL:RBDHA:2016:572,2015,2017,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,15,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:PHR:2017:5191,2019,2017,Midden-Nederland,Moord,Doodslag,Mes,Man,Vrouw,10,Moord,Ontkenning,Getuigenverklaring,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2023:6784,2010,2011,Noord-Nederland,Doodslag,Doodslag,Wurging,Man,Man,10,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:HR:2018:1958,2021,2019,Rotterdam,Moord,Moord,Vuurwapen,Man,Man,8,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2016:2622,2021,2019,Noord-Nederland,Poging tot moord,Doodslag,Mes,Man,Vrouw,12,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:RBDHA:2019:8437,2015,2011,Oost-Nederland,Doodslag,Poging tot moord,Anders,Man,Vrouw,12,Doodslag,Ontkenning,Observatie,Wraak,Verstikking,Geen letsel
+ECLI:NL:GHARL:2021:8005,2019,2024,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,8,Doodslag,Ontkenning,Bekentenis,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2018:7583,2019,2012,Rotterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,10,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2021:3222,2012,2023,Amsterdam,Doodslag,Doodslag,Vuurwapen,Man,Vrouw,20,Moord,Geen verweer,Observatie,Wraak,Verstikking,Zwaar gewond
+ECLI:NL:PHR:2016:4626,2019,2020,Rotterdam,Doodslag,Moord,Mes,Man,Man,12,Doodslag,Ontkenning,Bekentenis,Financieel,Verstikking,Zwaar gewond
+ECLI:NL:RBDHA:2020:8418,2013,2020,Amsterdam,Vrijspraak,Poging tot moord,Wurging,Man,Vrouw,12,Doodslag,Noodweer,Getuigenverklaring,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2015:4734,2022,2021,Rotterdam,Moord,Doodslag,Wurging,Man,Vrouw,20,Doodslag,Geen verweer,Observatie,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2022:2534,2017,2015,Oost-Nederland,Poging tot moord,Moord,Mes,Man,Man,15,Moord,Ontkenning,Forensisch bewijs,Psychose,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2023:8035,2018,2019,Rotterdam,Moord,Poging tot moord,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Bekentenis,Wraak,Schietpartij,Dood direct
+ECLI:NL:GHARL:2020:9142,2014,2019,Rotterdam,Moord,Doodslag,Anders,Man,Vrouw,20,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Verstikking,Geen letsel
+ECLI:NL:RBDHA:2022:5372,2012,2014,Amsterdam,Vrijspraak,Poging tot moord,Wurging,Man,Vrouw,12,Moord,Ontkenning,Bekentenis,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2018:9468,2017,2021,Rotterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Man,12,Moord,Ontkenning,Getuigenverklaring,Wraak,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2018:6830,2010,2021,Oost-Nederland,Doodslag,Doodslag,Vergif,Man,Man,12,Doodslag,Geen verweer,Bekentenis,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:HR:2020:7849,2011,2018,Noord-Nederland,Doodslag,Poging tot moord,Wurging,Man,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Schietpartij,Dood later
+ECLI:NL:RBDHA:2021:2592,2010,2016,Amsterdam,Doodslag,Doodslag,Wurging,Man,Man,20,Doodslag,Geen verweer,Bekentenis,Ruzie,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2015:2168,2013,2016,Midden-Nederland,Moord,Doodslag,Vuurwapen,Vrouw,Man,8,Doodslag,Geen verweer,Getuigenverklaring,Financieel,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2016:7313,2019,2024,Amsterdam,Vrijspraak,Doodslag,Wurging,Man,Man,8,Doodslag,Ontkenning,Bekentenis,Wraak,Vergiftiging,Dood direct
+ECLI:NL:HR:2023:7586,2013,2011,Oost-Nederland,Vrijspraak,Poging tot moord,Wurging,Vrouw,Man,12,Moord,Ontkenning,Bekentenis,Wraak,Slag met voorwerp,Zwaar gewond
+ECLI:NL:HR:2017:6817,2010,2024,Oost-Nederland,Poging tot moord,Doodslag,Mes,Man,Man,20,Moord,Geen verweer,Forensisch bewijs,Financieel,Verstikking,Zwaar gewond
+ECLI:NL:PHR:2016:7792,2018,2014,Rotterdam,Doodslag,Doodslag,Mes,Man,Man,12,Moord,Geen verweer,Observatie,Relatieproblemen,Vergiftiging,Geen letsel
+ECLI:NL:GHARL:2020:6612,2017,2024,Oost-Nederland,Moord,Poging tot moord,Vergif,Vrouw,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Verstikking,Dood direct
+ECLI:NL:HR:2020:8842,2010,2018,Oost-Nederland,Moord,Moord,Wurging,Man,Man,10,Moord,Geen verweer,Getuigenverklaring,Financieel,Steekpartij,Dood later
+ECLI:NL:RBDHA:2020:8094,2015,2016,Amsterdam,Moord,Moord,Wurging,Vrouw,Man,15,Doodslag,Ontkenning,Bekentenis,Financieel,Slag met voorwerp,Geen letsel
+ECLI:NL:HR:2016:3946,2019,2019,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,15,Doodslag,Noodweer,Observatie,Psychose,Schietpartij,Dood later
+ECLI:NL:GHARL:2018:1580,2013,2023,Amsterdam,Doodslag,Poging tot moord,Vergif,Man,Vrouw,8,Moord,Ontkenning,Bekentenis,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:RBDHA:2016:1746,2022,2020,Amsterdam,Doodslag,Doodslag,Vergif,Vrouw,Man,15,Moord,Noodweer,Forensisch bewijs,Ruzie,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2017:5006,2012,2020,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,8,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:HR:2015:5414,2015,2018,Midden-Nederland,Doodslag,Moord,Mes,Man,Vrouw,15,Moord,Noodweer,Bekentenis,Psychose,Vergiftiging,Dood later
+ECLI:NL:HR:2019:5973,2021,2022,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Vrouw,Vrouw,8,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2021:2485,2012,2021,Midden-Nederland,Doodslag,Doodslag,Wurging,Man,Man,12,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2023:6851,2022,2016,Oost-Nederland,Poging tot moord,Moord,Mes,Man,Man,15,Moord,Geen verweer,Bekentenis,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:PHR:2017:2968,2015,2022,Rotterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,20,Doodslag,Geen verweer,Forensisch bewijs,Financieel,Verstikking,Dood direct
+ECLI:NL:HR:2021:4045,2010,2018,Midden-Nederland,Poging tot moord,Doodslag,Anders,Man,Man,10,Doodslag,Noodweer,Forensisch bewijs,Financieel,Steekpartij,Dood later
+ECLI:NL:RBDHA:2017:3904,2010,2012,Midden-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Vrouw,15,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2019:7629,2012,2012,Rotterdam,Poging tot moord,Doodslag,Mes,Man,Man,8,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2015:7722,2019,2023,Noord-Nederland,Doodslag,Moord,Mes,Vrouw,Vrouw,20,Doodslag,Geen verweer,Forensisch bewijs,Psychose,Verstikking,Dood direct
+ECLI:NL:GHARL:2023:2688,2021,2021,Noord-Nederland,Moord,Doodslag,Mes,Man,Vrouw,8,Moord,Noodweer,Getuigenverklaring,Wraak,Vergiftiging,Dood direct
+ECLI:NL:HR:2022:5761,2012,2014,Amsterdam,Moord,Doodslag,Anders,Man,Man,12,Doodslag,Ontkenning,Bekentenis,Financieel,Verstikking,Dood direct
+ECLI:NL:GHARL:2021:4197,2022,2011,Rotterdam,Poging tot moord,Poging tot moord,Vuurwapen,Man,Man,20,Doodslag,Noodweer,Bekentenis,Financieel,Steekpartij,Dood later
+ECLI:NL:RBDHA:2019:3363,2011,2016,Rotterdam,Doodslag,Moord,Mes,Man,Vrouw,20,Moord,Ontkenning,Bekentenis,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2022:1847,2018,2016,Amsterdam,Moord,Moord,Wurging,Man,Man,12,Moord,Geen verweer,Forensisch bewijs,Wraak,Steekpartij,Dood direct
+ECLI:NL:PHR:2021:9470,2015,2024,Noord-Nederland,Moord,Doodslag,Vuurwapen,Man,Man,8,Doodslag,Noodweer,Getuigenverklaring,Psychose,Verstikking,Dood direct
+ECLI:NL:GHARL:2019:4937,2011,2021,Oost-Nederland,Doodslag,Moord,Wurging,Vrouw,Man,15,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:HR:2021:4597,2015,2023,Midden-Nederland,Doodslag,Moord,Mes,Man,Man,10,Doodslag,Noodweer,Observatie,Financieel,Schietpartij,Dood direct
+ECLI:NL:HR:2015:8238,2021,2015,Rotterdam,Moord,Doodslag,Vuurwapen,Man,Vrouw,12,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2018:5872,2020,2019,Rotterdam,Vrijspraak,Poging tot moord,Vuurwapen,Man,Vrouw,12,Doodslag,Ontkenning,Observatie,Relatieproblemen,Slag met voorwerp,Geen letsel
+ECLI:NL:PHR:2018:4206,2016,2019,Amsterdam,Vrijspraak,Doodslag,Mes,Man,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Schietpartij,Dood later
+ECLI:NL:PHR:2016:745,2019,2016,Amsterdam,Doodslag,Poging tot moord,Anders,Man,Man,15,Doodslag,Ontkenning,Bekentenis,Ruzie,Verstikking,Dood later
+ECLI:NL:GHARL:2022:646,2011,2022,Amsterdam,Vrijspraak,Moord,Wurging,Man,Vrouw,10,Moord,Ontkenning,Bekentenis,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2017:1576,2015,2012,Rotterdam,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,10,Moord,Geen verweer,Observatie,Relatieproblemen,Steekpartij,Geen letsel
+ECLI:NL:GHARL:2020:6907,2014,2011,Midden-Nederland,Moord,Doodslag,Mes,Man,Man,10,Doodslag,Geen verweer,Bekentenis,Financieel,Slag met voorwerp,Geen letsel
+ECLI:NL:PHR:2018:2265,2015,2013,Amsterdam,Vrijspraak,Poging tot moord,Vergif,Man,Vrouw,10,Doodslag,Geen verweer,Observatie,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2023:8321,2012,2018,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,20,Doodslag,Ontkenning,Observatie,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2017:4310,2012,2013,Oost-Nederland,Doodslag,Doodslag,Vergif,Man,Vrouw,8,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Slag met voorwerp,Zwaar gewond
+ECLI:NL:RBDHA:2019:5649,2021,2024,Midden-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Vrouw,10,Moord,Geen verweer,Getuigenverklaring,Wraak,Schietpartij,Geen letsel
+ECLI:NL:HR:2022:1333,2016,2022,Midden-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,8,Doodslag,Geen verweer,Bekentenis,Wraak,Schietpartij,Dood direct
+ECLI:NL:PHR:2018:6611,2022,2022,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,8,Moord,Noodweer,Bekentenis,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2016:6564,2020,2022,Rotterdam,Doodslag,Poging tot moord,Wurging,Man,Man,10,Doodslag,Geen verweer,Observatie,Ruzie,Steekpartij,Geen letsel
+ECLI:NL:HR:2019:8891,2017,2017,Rotterdam,Doodslag,Doodslag,Vuurwapen,Man,Vrouw,20,Moord,Noodweer,Forensisch bewijs,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:HR:2022:6138,2020,2012,Oost-Nederland,Moord,Doodslag,Wurging,Man,Vrouw,15,Doodslag,Geen verweer,Bekentenis,Financieel,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2021:6186,2015,2015,Noord-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,20,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:HR:2018:7824,2012,2020,Amsterdam,Poging tot moord,Doodslag,Mes,Man,Vrouw,12,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:HR:2023:5474,2021,2014,Noord-Nederland,Vrijspraak,Doodslag,Mes,Man,Man,8,Moord,Ontkenning,Getuigenverklaring,Financieel,Verstikking,Zwaar gewond
+ECLI:NL:PHR:2016:7706,2018,2014,Rotterdam,Moord,Doodslag,Mes,Man,Man,20,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Vergiftiging,Dood later
+ECLI:NL:GHARL:2021:2011,2021,2012,Noord-Nederland,Poging tot moord,Doodslag,Mes,Man,Man,10,Moord,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2015:709,2019,2024,Midden-Nederland,Doodslag,Doodslag,Vuurwapen,Vrouw,Vrouw,8,Moord,Noodweer,Bekentenis,Wraak,Schietpartij,Dood direct
+ECLI:NL:GHARL:2022:2002,2022,2017,Amsterdam,Moord,Poging tot moord,Mes,Man,Man,12,Doodslag,Geen verweer,Bekentenis,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2018:8907,2015,2014,Amsterdam,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,12,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2021:7532,2013,2018,Rotterdam,Moord,Poging tot moord,Wurging,Man,Vrouw,8,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2023:6966,2020,2024,Oost-Nederland,Vrijspraak,Doodslag,Mes,Man,Vrouw,12,Doodslag,Geen verweer,Observatie,Ruzie,Steekpartij,Dood direct
+ECLI:NL:PHR:2021:1722,2019,2023,Oost-Nederland,Doodslag,Moord,Wurging,Man,Vrouw,20,Doodslag,Geen verweer,Observatie,Wraak,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2021:4683,2012,2014,Midden-Nederland,Doodslag,Moord,Anders,Man,Man,8,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:HR:2020:3659,2016,2022,Amsterdam,Poging tot moord,Poging tot moord,Wurging,Man,Man,20,Moord,Ontkenning,Bekentenis,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2022:3968,2014,2016,Rotterdam,Moord,Doodslag,Vuurwapen,Man,Vrouw,10,Moord,Noodweer,Observatie,Relatieproblemen,Verstikking,Geen letsel
+ECLI:NL:GHARL:2016:6118,2021,2012,Rotterdam,Doodslag,Moord,Mes,Man,Man,12,Moord,Ontkenning,Bekentenis,Wraak,Vergiftiging,Geen letsel
+ECLI:NL:GHARL:2015:6623,2021,2023,Midden-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,8,Doodslag,Geen verweer,Observatie,Psychose,Slag met voorwerp,Geen letsel
+ECLI:NL:GHARL:2018:2101,2014,2017,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,8,Moord,Geen verweer,Getuigenverklaring,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2016:3575,2012,2011,Oost-Nederland,Vrijspraak,Poging tot moord,Anders,Man,Vrouw,20,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2015:5564,2012,2021,Oost-Nederland,Doodslag,Moord,Wurging,Man,Man,15,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:PHR:2017:9350,2021,2024,Amsterdam,Doodslag,Doodslag,Anders,Man,Man,8,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Zwaar gewond
+ECLI:NL:PHR:2016:9180,2010,2021,Amsterdam,Moord,Moord,Mes,Vrouw,Vrouw,20,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:PHR:2018:3917,2021,2020,Amsterdam,Doodslag,Poging tot moord,Anders,Vrouw,Vrouw,8,Moord,Ontkenning,Getuigenverklaring,Wraak,Schietpartij,Dood later
+ECLI:NL:GHARL:2017:9864,2019,2012,Rotterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,10,Doodslag,Noodweer,Forensisch bewijs,Psychose,Steekpartij,Zwaar gewond
+ECLI:NL:HR:2019:2470,2016,2023,Amsterdam,Doodslag,Moord,Anders,Man,Man,10,Doodslag,Noodweer,Getuigenverklaring,Financieel,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2023:4206,2022,2018,Amsterdam,Doodslag,Poging tot moord,Mes,Man,Vrouw,12,Moord,Ontkenning,Forensisch bewijs,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:PHR:2016:522,2019,2018,Midden-Nederland,Moord,Doodslag,Wurging,Man,Man,20,Moord,Geen verweer,Bekentenis,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2015:5969,2010,2021,Amsterdam,Doodslag,Moord,Vuurwapen,Man,Man,12,Moord,Ontkenning,Observatie,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2020:358,2012,2020,Rotterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,15,Moord,Noodweer,Getuigenverklaring,Wraak,Steekpartij,Geen letsel
+ECLI:NL:PHR:2019:958,2019,2019,Midden-Nederland,Vrijspraak,Doodslag,Wurging,Man,Man,8,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Geen letsel
+ECLI:NL:PHR:2021:8719,2015,2013,Amsterdam,Moord,Doodslag,Vergif,Man,Man,15,Doodslag,Ontkenning,Bekentenis,Financieel,Schietpartij,Zwaar gewond
+ECLI:NL:HR:2016:7902,2022,2018,Oost-Nederland,Doodslag,Moord,Mes,Man,Vrouw,12,Moord,Ontkenning,Observatie,Ruzie,Steekpartij,Dood later
+ECLI:NL:RBDHA:2020:8508,2019,2011,Oost-Nederland,Doodslag,Doodslag,Mes,Man,Man,10,Moord,Geen verweer,Bekentenis,Ruzie,Vergiftiging,Dood later
+ECLI:NL:HR:2022:8354,2013,2019,Noord-Nederland,Doodslag,Doodslag,Vuurwapen,Vrouw,Man,8,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Steekpartij,Geen letsel
+ECLI:NL:PHR:2015:8643,2020,2022,Noord-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,12,Moord,Geen verweer,Forensisch bewijs,Wraak,Vergiftiging,Geen letsel
+ECLI:NL:GHARL:2022:610,2019,2011,Midden-Nederland,Poging tot moord,Poging tot moord,Mes,Vrouw,Vrouw,20,Moord,Geen verweer,Bekentenis,Financieel,Steekpartij,Dood later
+ECLI:NL:HR:2022:6680,2011,2019,Noord-Nederland,Doodslag,Moord,Mes,Man,Vrouw,12,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2016:8132,2017,2017,Oost-Nederland,Vrijspraak,Moord,Mes,Man,Vrouw,12,Doodslag,Noodweer,Getuigenverklaring,Relatieproblemen,Steekpartij,Zwaar gewond
+ECLI:NL:RBDHA:2016:1423,2012,2024,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,15,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Verstikking,Geen letsel
+ECLI:NL:GHARL:2017:1176,2015,2020,Oost-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,12,Doodslag,Noodweer,Getuigenverklaring,Financieel,Steekpartij,Geen letsel
+ECLI:NL:PHR:2019:9690,2021,2018,Oost-Nederland,Doodslag,Doodslag,Wurging,Vrouw,Vrouw,15,Moord,Geen verweer,Forensisch bewijs,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2021:9887,2011,2019,Midden-Nederland,Moord,Moord,Anders,Man,Vrouw,12,Doodslag,Ontkenning,Observatie,Financieel,Steekpartij,Dood direct
+ECLI:NL:GHARL:2022:8382,2013,2023,Rotterdam,Vrijspraak,Poging tot moord,Vuurwapen,Man,Vrouw,20,Doodslag,Noodweer,Observatie,Wraak,Verstikking,Dood direct
+ECLI:NL:RBDHA:2016:1974,2015,2013,Oost-Nederland,Poging tot moord,Poging tot moord,Mes,Vrouw,Man,8,Moord,Ontkenning,Observatie,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:PHR:2021:7498,2015,2022,Amsterdam,Poging tot moord,Doodslag,Mes,Man,Man,10,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Verstikking,Dood later
+ECLI:NL:PHR:2021:5653,2012,2020,Noord-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Man,12,Doodslag,Noodweer,Bekentenis,Financieel,Steekpartij,Zwaar gewond
+ECLI:NL:RBDHA:2021:6915,2020,2013,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Observatie,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:HR:2020:7092,2011,2022,Amsterdam,Moord,Doodslag,Wurging,Man,Man,12,Doodslag,Geen verweer,Observatie,Financieel,Schietpartij,Dood later
+ECLI:NL:GHARL:2019:6232,2021,2024,Oost-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Man,10,Doodslag,Geen verweer,Observatie,Financieel,Schietpartij,Geen letsel
+ECLI:NL:PHR:2022:1199,2020,2013,Noord-Nederland,Moord,Doodslag,Vuurwapen,Man,Vrouw,20,Moord,Noodweer,Observatie,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:HR:2016:1627,2020,2012,Midden-Nederland,Doodslag,Doodslag,Vergif,Man,Man,8,Moord,Noodweer,Getuigenverklaring,Wraak,Verstikking,Dood later
+ECLI:NL:RBDHA:2016:6205,2021,2017,Amsterdam,Vrijspraak,Doodslag,Vuurwapen,Vrouw,Man,8,Moord,Ontkenning,Getuigenverklaring,Ruzie,Verstikking,Dood later
+ECLI:NL:PHR:2023:1082,2015,2021,Oost-Nederland,Poging tot moord,Doodslag,Wurging,Man,Man,20,Doodslag,Noodweer,Bekentenis,Ruzie,Schietpartij,Dood later
+ECLI:NL:GHARL:2016:6830,2017,2020,Amsterdam,Moord,Doodslag,Vuurwapen,Man,Vrouw,10,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Steekpartij,Dood direct
+ECLI:NL:GHARL:2021:942,2010,2020,Rotterdam,Doodslag,Moord,Mes,Man,Man,12,Doodslag,Noodweer,Observatie,Wraak,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2019:5861,2014,2016,Oost-Nederland,Vrijspraak,Moord,Mes,Man,Man,20,Moord,Noodweer,Bekentenis,Relatieproblemen,Verstikking,Zwaar gewond
+ECLI:NL:HR:2023:3585,2013,2019,Midden-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,20,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:PHR:2022:3774,2013,2017,Oost-Nederland,Moord,Moord,Vuurwapen,Man,Man,20,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:HR:2020:9213,2021,2017,Noord-Nederland,Doodslag,Doodslag,Mes,Man,Vrouw,12,Doodslag,Ontkenning,Bekentenis,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2016:4664,2011,2020,Midden-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,10,Doodslag,Ontkenning,Getuigenverklaring,Wraak,Vergiftiging,Dood later
+ECLI:NL:PHR:2021:9290,2015,2022,Amsterdam,Doodslag,Poging tot moord,Wurging,Man,Vrouw,15,Doodslag,Ontkenning,Bekentenis,Psychose,Verstikking,Dood direct
+ECLI:NL:HR:2019:574,2014,2023,Rotterdam,Doodslag,Moord,Anders,Vrouw,Man,20,Moord,Ontkenning,Getuigenverklaring,Psychose,Schietpartij,Zwaar gewond
+ECLI:NL:PHR:2019:5162,2022,2014,Midden-Nederland,Doodslag,Moord,Wurging,Man,Man,8,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:GHARL:2020:200,2011,2015,Rotterdam,Vrijspraak,Doodslag,Wurging,Man,Vrouw,10,Moord,Ontkenning,Forensisch bewijs,Ruzie,Steekpartij,Dood direct
+ECLI:NL:PHR:2017:9378,2021,2017,Amsterdam,Doodslag,Poging tot moord,Wurging,Man,Vrouw,15,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2016:2424,2010,2016,Amsterdam,Poging tot moord,Doodslag,Wurging,Man,Man,8,Doodslag,Geen verweer,Forensisch bewijs,Psychose,Vergiftiging,Dood later
+ECLI:NL:HR:2016:8791,2010,2015,Midden-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,8,Doodslag,Geen verweer,Forensisch bewijs,Wraak,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2021:6978,2016,2018,Noord-Nederland,Moord,Doodslag,Mes,Man,Man,10,Doodslag,Geen verweer,Getuigenverklaring,Wraak,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2020:2678,2017,2023,Oost-Nederland,Moord,Doodslag,Mes,Man,Man,20,Moord,Geen verweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2019:5414,2021,2013,Rotterdam,Poging tot moord,Moord,Mes,Man,Vrouw,20,Moord,Geen verweer,Observatie,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2015:2649,2016,2013,Rotterdam,Vrijspraak,Moord,Vuurwapen,Vrouw,Man,20,Moord,Geen verweer,Bekentenis,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:PHR:2015:1436,2012,2017,Rotterdam,Vrijspraak,Moord,Vergif,Man,Vrouw,20,Moord,Noodweer,Observatie,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2022:7047,2016,2020,Rotterdam,Doodslag,Poging tot moord,Mes,Man,Vrouw,15,Doodslag,Ontkenning,Observatie,Psychose,Steekpartij,Dood later
+ECLI:NL:RBDHA:2022:6885,2017,2022,Rotterdam,Moord,Doodslag,Mes,Man,Man,20,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2018:8494,2016,2022,Rotterdam,Doodslag,Doodslag,Anders,Man,Vrouw,8,Moord,Geen verweer,Bekentenis,Ruzie,Steekpartij,Dood later
+ECLI:NL:HR:2020:7143,2015,2019,Amsterdam,Moord,Doodslag,Vuurwapen,Man,Man,20,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:HR:2019:9817,2018,2015,Amsterdam,Moord,Doodslag,Vuurwapen,Man,Man,8,Moord,Ontkenning,Forensisch bewijs,Ruzie,Vergiftiging,Geen letsel
+ECLI:NL:RBDHA:2023:5153,2016,2024,Rotterdam,Poging tot moord,Moord,Wurging,Man,Vrouw,20,Doodslag,Geen verweer,Bekentenis,Ruzie,Schietpartij,Dood direct
+ECLI:NL:HR:2018:6575,2011,2022,Midden-Nederland,Vrijspraak,Moord,Mes,Man,Vrouw,15,Doodslag,Noodweer,Observatie,Psychose,Slag met voorwerp,Zwaar gewond
+ECLI:NL:HR:2015:3449,2017,2019,Amsterdam,Doodslag,Moord,Wurging,Vrouw,Man,20,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:GHARL:2018:2348,2022,2024,Amsterdam,Moord,Moord,Vuurwapen,Man,Man,20,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Verstikking,Geen letsel
+ECLI:NL:GHARL:2019:5475,2019,2016,Amsterdam,Moord,Poging tot moord,Mes,Man,Man,15,Doodslag,Noodweer,Observatie,Ruzie,Steekpartij,Dood later
+ECLI:NL:HR:2015:8249,2020,2022,Amsterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,12,Moord,Ontkenning,Observatie,Wraak,Steekpartij,Zwaar gewond
+ECLI:NL:RBDHA:2017:2216,2022,2022,Oost-Nederland,Vrijspraak,Moord,Mes,Man,Man,12,Doodslag,Noodweer,Getuigenverklaring,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2023:3870,2020,2019,Midden-Nederland,Moord,Poging tot moord,Wurging,Man,Vrouw,10,Doodslag,Geen verweer,Bekentenis,Wraak,Schietpartij,Dood direct
+ECLI:NL:GHARL:2016:6605,2013,2021,Midden-Nederland,Moord,Poging tot moord,Mes,Man,Man,20,Doodslag,Geen verweer,Observatie,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2021:407,2012,2014,Amsterdam,Moord,Doodslag,Vuurwapen,Man,Man,12,Doodslag,Ontkenning,Bekentenis,Wraak,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2016:5229,2017,2014,Rotterdam,Vrijspraak,Moord,Wurging,Man,Man,10,Moord,Ontkenning,Bekentenis,Psychose,Slag met voorwerp,Zwaar gewond
+ECLI:NL:RBDHA:2021:6943,2011,2014,Oost-Nederland,Moord,Poging tot moord,Mes,Vrouw,Man,12,Doodslag,Ontkenning,Observatie,Wraak,Verstikking,Dood direct
+ECLI:NL:GHARL:2016:6736,2022,2020,Midden-Nederland,Moord,Moord,Vuurwapen,Man,Vrouw,10,Moord,Geen verweer,Bekentenis,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:HR:2020:2915,2010,2022,Midden-Nederland,Moord,Doodslag,Wurging,Man,Vrouw,12,Doodslag,Ontkenning,Bekentenis,Relatieproblemen,Slag met voorwerp,Zwaar gewond
+ECLI:NL:RBDHA:2020:1543,2014,2015,Rotterdam,Doodslag,Poging tot moord,Vergif,Man,Man,10,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:RBDHA:2016:4086,2010,2021,Oost-Nederland,Moord,Poging tot moord,Wurging,Man,Man,15,Moord,Geen verweer,Getuigenverklaring,Financieel,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2021:8684,2015,2016,Amsterdam,Doodslag,Doodslag,Vuurwapen,Man,Vrouw,12,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2021:5183,2014,2021,Amsterdam,Vrijspraak,Doodslag,Anders,Man,Man,8,Doodslag,Ontkenning,Observatie,Wraak,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2018:5556,2011,2013,Oost-Nederland,Moord,Doodslag,Wurging,Man,Man,10,Moord,Geen verweer,Bekentenis,Psychose,Vergiftiging,Dood later
+ECLI:NL:PHR:2016:8463,2011,2022,Oost-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,15,Moord,Ontkenning,Forensisch bewijs,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:HR:2023:8455,2015,2021,Amsterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,15,Moord,Ontkenning,Observatie,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:PHR:2020:5852,2012,2013,Amsterdam,Vrijspraak,Poging tot moord,Mes,Man,Man,12,Moord,Noodweer,Bekentenis,Relatieproblemen,Schietpartij,Zwaar gewond
+ECLI:NL:PHR:2018:1784,2016,2019,Rotterdam,Vrijspraak,Moord,Mes,Man,Man,8,Moord,Ontkenning,Bekentenis,Psychose,Schietpartij,Dood later
+ECLI:NL:PHR:2019:3332,2012,2019,Amsterdam,Doodslag,Moord,Vuurwapen,Man,Man,12,Moord,Ontkenning,Forensisch bewijs,Ruzie,Verstikking,Dood later
+ECLI:NL:PHR:2017:1334,2021,2022,Oost-Nederland,Moord,Poging tot moord,Mes,Vrouw,Man,20,Doodslag,Ontkenning,Bekentenis,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2022:7701,2011,2021,Noord-Nederland,Moord,Poging tot moord,Wurging,Man,Man,20,Doodslag,Geen verweer,Forensisch bewijs,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2020:5279,2018,2016,Amsterdam,Poging tot moord,Doodslag,Mes,Man,Vrouw,8,Doodslag,Noodweer,Bekentenis,Ruzie,Schietpartij,Dood direct
+ECLI:NL:PHR:2022:1218,2011,2022,Amsterdam,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,12,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Verstikking,Geen letsel
+ECLI:NL:RBDHA:2022:5061,2015,2012,Amsterdam,Doodslag,Poging tot moord,Wurging,Vrouw,Man,15,Moord,Ontkenning,Observatie,Financieel,Verstikking,Dood later
+ECLI:NL:GHARL:2015:5866,2019,2023,Amsterdam,Poging tot moord,Poging tot moord,Mes,Man,Man,20,Moord,Noodweer,Observatie,Psychose,Slag met voorwerp,Zwaar gewond
+ECLI:NL:HR:2019:7665,2019,2016,Oost-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,10,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Schietpartij,Dood later
+ECLI:NL:RBDHA:2015:1032,2017,2019,Noord-Nederland,Moord,Poging tot moord,Wurging,Vrouw,Vrouw,15,Moord,Geen verweer,Bekentenis,Ruzie,Steekpartij,Dood later
+ECLI:NL:GHARL:2019:1357,2021,2018,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,15,Moord,Noodweer,Observatie,Wraak,Verstikking,Dood direct
+ECLI:NL:HR:2023:6399,2010,2020,Midden-Nederland,Doodslag,Moord,Mes,Man,Vrouw,10,Moord,Ontkenning,Bekentenis,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2023:772,2016,2020,Noord-Nederland,Moord,Poging tot moord,Wurging,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Financieel,Verstikking,Zwaar gewond
+ECLI:NL:RBDHA:2018:5367,2020,2021,Amsterdam,Vrijspraak,Moord,Mes,Man,Man,10,Doodslag,Geen verweer,Observatie,Wraak,Schietpartij,Geen letsel
+ECLI:NL:RBDHA:2023:2571,2012,2022,Noord-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Vrouw,20,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Verstikking,Zwaar gewond
+ECLI:NL:HR:2022:1795,2019,2017,Midden-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,10,Moord,Geen verweer,Forensisch bewijs,Psychose,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2016:8366,2016,2021,Amsterdam,Vrijspraak,Poging tot moord,Anders,Man,Vrouw,15,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:PHR:2015:4159,2012,2022,Midden-Nederland,Moord,Moord,Wurging,Vrouw,Vrouw,20,Doodslag,Geen verweer,Observatie,Financieel,Verstikking,Dood direct
+ECLI:NL:RBDHA:2022:8686,2010,2024,Oost-Nederland,Moord,Doodslag,Vuurwapen,Man,Vrouw,10,Moord,Ontkenning,Bekentenis,Ruzie,Steekpartij,Dood direct
+ECLI:NL:PHR:2020:6208,2011,2019,Amsterdam,Doodslag,Moord,Vergif,Man,Vrouw,20,Moord,Geen verweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2021:6797,2015,2015,Rotterdam,Doodslag,Moord,Wurging,Vrouw,Man,12,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:GHARL:2015:5582,2013,2024,Rotterdam,Vrijspraak,Poging tot moord,Mes,Man,Man,12,Doodslag,Geen verweer,Bekentenis,Ruzie,Steekpartij,Dood direct
+ECLI:NL:HR:2020:1648,2013,2017,Amsterdam,Vrijspraak,Doodslag,Vuurwapen,Vrouw,Man,12,Doodslag,Noodweer,Observatie,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2019:4228,2016,2023,Rotterdam,Doodslag,Moord,Vuurwapen,Man,Vrouw,12,Doodslag,Ontkenning,Forensisch bewijs,Wraak,Verstikking,Dood direct
+ECLI:NL:PHR:2020:1435,2021,2011,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,8,Moord,Ontkenning,Observatie,Wraak,Schietpartij,Dood direct
+ECLI:NL:PHR:2020:5182,2018,2019,Oost-Nederland,Vrijspraak,Doodslag,Mes,Man,Man,8,Moord,Ontkenning,Observatie,Financieel,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2017:9849,2021,2012,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Vrouw,Man,15,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:HR:2019:9257,2021,2011,Rotterdam,Moord,Poging tot moord,Wurging,Man,Man,15,Moord,Ontkenning,Forensisch bewijs,Psychose,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2020:2193,2018,2017,Oost-Nederland,Vrijspraak,Moord,Mes,Man,Man,20,Moord,Geen verweer,Bekentenis,Wraak,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2021:8431,2014,2013,Oost-Nederland,Moord,Doodslag,Vuurwapen,Man,Man,10,Moord,Geen verweer,Bekentenis,Psychose,Schietpartij,Geen letsel
+ECLI:NL:GHARL:2015:6040,2020,2011,Amsterdam,Poging tot moord,Poging tot moord,Vergif,Man,Vrouw,20,Doodslag,Noodweer,Observatie,Ruzie,Verstikking,Dood direct
+ECLI:NL:GHARL:2017:3609,2014,2021,Noord-Nederland,Doodslag,Poging tot moord,Vergif,Man,Vrouw,15,Moord,Ontkenning,Bekentenis,Psychose,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2022:3245,2014,2011,Noord-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,10,Doodslag,Ontkenning,Observatie,Financieel,Slag met voorwerp,Zwaar gewond
+ECLI:NL:PHR:2017:2638,2013,2014,Oost-Nederland,Poging tot moord,Poging tot moord,Mes,Man,Man,10,Moord,Ontkenning,Observatie,Financieel,Vergiftiging,Dood later
+ECLI:NL:HR:2019:1757,2011,2015,Oost-Nederland,Doodslag,Doodslag,Mes,Man,Man,15,Moord,Noodweer,Observatie,Ruzie,Verstikking,Dood later
+ECLI:NL:HR:2020:2247,2010,2023,Rotterdam,Moord,Poging tot moord,Anders,Man,Man,8,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Verstikking,Dood direct
+ECLI:NL:RBDHA:2017:2758,2016,2023,Amsterdam,Poging tot moord,Poging tot moord,Wurging,Man,Man,10,Doodslag,Geen verweer,Observatie,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2017:7270,2019,2013,Amsterdam,Doodslag,Moord,Vuurwapen,Man,Vrouw,8,Moord,Ontkenning,Observatie,Wraak,Steekpartij,Dood later
+ECLI:NL:HR:2021:6068,2018,2015,Noord-Nederland,Poging tot moord,Poging tot moord,Wurging,Man,Man,15,Doodslag,Noodweer,Observatie,Financieel,Slag met voorwerp,Zwaar gewond
+ECLI:NL:PHR:2022:4768,2017,2021,Midden-Nederland,Doodslag,Doodslag,Wurging,Man,Man,12,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2018:8849,2012,2015,Rotterdam,Poging tot moord,Poging tot moord,Anders,Vrouw,Vrouw,20,Doodslag,Ontkenning,Bekentenis,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2019:7784,2010,2013,Noord-Nederland,Vrijspraak,Doodslag,Vuurwapen,Man,Man,15,Moord,Ontkenning,Bekentenis,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2020:9445,2015,2024,Amsterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,8,Doodslag,Geen verweer,Forensisch bewijs,Psychose,Verstikking,Dood later
+ECLI:NL:RBDHA:2022:4716,2010,2011,Midden-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Man,10,Moord,Geen verweer,Bekentenis,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2023:8741,2016,2022,Midden-Nederland,Moord,Poging tot moord,Anders,Man,Man,8,Doodslag,Noodweer,Observatie,Relatieproblemen,Steekpartij,Zwaar gewond
+ECLI:NL:RBDHA:2017:3371,2011,2023,Oost-Nederland,Doodslag,Moord,Wurging,Man,Man,15,Doodslag,Ontkenning,Bekentenis,Psychose,Steekpartij,Dood direct
+ECLI:NL:PHR:2019:954,2014,2015,Noord-Nederland,Doodslag,Doodslag,Vuurwapen,Vrouw,Man,8,Moord,Geen verweer,Bekentenis,Ruzie,Verstikking,Dood direct
+ECLI:NL:RBDHA:2020:9185,2020,2014,Oost-Nederland,Vrijspraak,Moord,Mes,Man,Man,10,Moord,Noodweer,Observatie,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:HR:2023:2142,2020,2023,Rotterdam,Vrijspraak,Poging tot moord,Vuurwapen,Man,Vrouw,8,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Steekpartij,Geen letsel
+ECLI:NL:GHARL:2016:2726,2019,2019,Oost-Nederland,Vrijspraak,Doodslag,Wurging,Man,Vrouw,10,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Verstikking,Zwaar gewond
+ECLI:NL:GHARL:2022:8510,2017,2011,Midden-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,20,Moord,Ontkenning,Observatie,Wraak,Vergiftiging,Dood later
+ECLI:NL:PHR:2021:1602,2013,2016,Midden-Nederland,Moord,Moord,Mes,Vrouw,Man,20,Moord,Noodweer,Forensisch bewijs,Ruzie,Verstikking,Dood later
+ECLI:NL:PHR:2022:5827,2011,2024,Midden-Nederland,Doodslag,Poging tot moord,Mes,Vrouw,Vrouw,15,Doodslag,Noodweer,Observatie,Ruzie,Vergiftiging,Dood later
+ECLI:NL:HR:2021:972,2010,2018,Oost-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,15,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2023:6226,2013,2012,Noord-Nederland,Moord,Doodslag,Mes,Man,Man,12,Doodslag,Ontkenning,Observatie,Ruzie,Schietpartij,Dood direct
+ECLI:NL:PHR:2021:1437,2012,2020,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Vrouw,Man,10,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:GHARL:2018:561,2020,2024,Noord-Nederland,Doodslag,Doodslag,Mes,Vrouw,Vrouw,15,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2016:5593,2014,2021,Amsterdam,Vrijspraak,Poging tot moord,Wurging,Man,Vrouw,20,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:PHR:2017:727,2011,2022,Noord-Nederland,Moord,Moord,Anders,Man,Vrouw,10,Doodslag,Ontkenning,Observatie,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:GHARL:2022:2373,2017,2019,Oost-Nederland,Moord,Moord,Vuurwapen,Man,Man,12,Moord,Noodweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:RBDHA:2022:186,2011,2024,Rotterdam,Moord,Poging tot moord,Wurging,Man,Vrouw,8,Moord,Ontkenning,Bekentenis,Relatieproblemen,Slag met voorwerp,Zwaar gewond
+ECLI:NL:HR:2015:4293,2014,2014,Noord-Nederland,Doodslag,Moord,Mes,Man,Man,12,Moord,Noodweer,Forensisch bewijs,Ruzie,Steekpartij,Dood direct
+ECLI:NL:PHR:2017:9091,2022,2022,Rotterdam,Moord,Moord,Mes,Vrouw,Vrouw,12,Doodslag,Ontkenning,Observatie,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2016:4820,2016,2021,Midden-Nederland,Moord,Poging tot moord,Anders,Man,Man,20,Doodslag,Geen verweer,Observatie,Wraak,Schietpartij,Dood later
+ECLI:NL:PHR:2019:2096,2017,2019,Rotterdam,Moord,Poging tot moord,Vuurwapen,Man,Man,20,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Steekpartij,Zwaar gewond
+ECLI:NL:HR:2018:6978,2017,2017,Noord-Nederland,Moord,Doodslag,Mes,Man,Man,20,Moord,Ontkenning,Getuigenverklaring,Financieel,Schietpartij,Geen letsel
+ECLI:NL:RBDHA:2016:1916,2020,2014,Amsterdam,Moord,Poging tot moord,Mes,Man,Vrouw,8,Doodslag,Noodweer,Observatie,Psychose,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2023:369,2014,2019,Amsterdam,Poging tot moord,Poging tot moord,Mes,Man,Man,8,Moord,Ontkenning,Bekentenis,Wraak,Slag met voorwerp,Zwaar gewond
+ECLI:NL:PHR:2017:4872,2011,2023,Rotterdam,Doodslag,Doodslag,Mes,Vrouw,Vrouw,8,Doodslag,Noodweer,Getuigenverklaring,Financieel,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2015:5880,2020,2023,Oost-Nederland,Vrijspraak,Moord,Mes,Vrouw,Man,12,Doodslag,Geen verweer,Getuigenverklaring,Psychose,Vergiftiging,Dood direct
+ECLI:NL:PHR:2021:3168,2018,2023,Midden-Nederland,Poging tot moord,Poging tot moord,Vuurwapen,Man,Man,15,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Verstikking,Zwaar gewond
+ECLI:NL:HR:2023:6008,2016,2022,Rotterdam,Doodslag,Poging tot moord,Wurging,Man,Man,15,Doodslag,Ontkenning,Observatie,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:HR:2023:9014,2012,2015,Amsterdam,Vrijspraak,Poging tot moord,Mes,Man,Man,15,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Verstikking,Dood direct
+ECLI:NL:HR:2021:7802,2015,2022,Rotterdam,Moord,Doodslag,Mes,Man,Man,15,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Vergiftiging,Geen letsel
+ECLI:NL:HR:2021:6216,2016,2021,Oost-Nederland,Vrijspraak,Doodslag,Mes,Man,Man,12,Moord,Noodweer,Observatie,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2015:5950,2015,2011,Midden-Nederland,Moord,Poging tot moord,Mes,Vrouw,Man,15,Moord,Ontkenning,Bekentenis,Ruzie,Verstikking,Dood direct
+ECLI:NL:HR:2020:4050,2012,2017,Midden-Nederland,Doodslag,Poging tot moord,Vergif,Vrouw,Vrouw,10,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Vergiftiging,Dood later
+ECLI:NL:HR:2020:2285,2017,2017,Oost-Nederland,Vrijspraak,Poging tot moord,Wurging,Man,Vrouw,10,Moord,Noodweer,Observatie,Psychose,Verstikking,Dood direct
+ECLI:NL:HR:2020:9045,2010,2017,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,20,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2017:7712,2014,2023,Rotterdam,Poging tot moord,Poging tot moord,Vuurwapen,Man,Vrouw,20,Moord,Noodweer,Getuigenverklaring,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2017:2309,2017,2021,Amsterdam,Vrijspraak,Poging tot moord,Mes,Vrouw,Man,8,Doodslag,Geen verweer,Getuigenverklaring,Psychose,Verstikking,Dood direct
+ECLI:NL:HR:2022:705,2017,2016,Oost-Nederland,Doodslag,Doodslag,Mes,Man,Vrouw,10,Moord,Ontkenning,Getuigenverklaring,Financieel,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2018:817,2014,2019,Amsterdam,Moord,Doodslag,Vergif,Man,Man,8,Doodslag,Noodweer,Observatie,Relatieproblemen,Steekpartij,Geen letsel
+ECLI:NL:PHR:2015:5270,2013,2011,Oost-Nederland,Doodslag,Doodslag,Anders,Man,Vrouw,20,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2023:6624,2014,2011,Noord-Nederland,Poging tot moord,Poging tot moord,Mes,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Psychose,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2019:699,2019,2022,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Man,Man,12,Doodslag,Geen verweer,Observatie,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:PHR:2019:5948,2010,2015,Oost-Nederland,Poging tot moord,Doodslag,Vuurwapen,Man,Vrouw,15,Doodslag,Ontkenning,Forensisch bewijs,Financieel,Verstikking,Dood direct
+ECLI:NL:HR:2020:4576,2012,2014,Noord-Nederland,Moord,Moord,Wurging,Vrouw,Man,15,Moord,Geen verweer,Forensisch bewijs,Financieel,Steekpartij,Dood direct
+ECLI:NL:HR:2020:7259,2022,2020,Rotterdam,Doodslag,Moord,Mes,Man,Man,12,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2022:6434,2021,2024,Rotterdam,Poging tot moord,Doodslag,Anders,Vrouw,Vrouw,15,Doodslag,Noodweer,Bekentenis,Financieel,Steekpartij,Dood direct
+ECLI:NL:GHARL:2017:8229,2020,2023,Amsterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Vrouw,10,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2020:8607,2011,2024,Oost-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,20,Doodslag,Noodweer,Forensisch bewijs,Psychose,Schietpartij,Dood direct
+ECLI:NL:GHARL:2016:7055,2011,2024,Oost-Nederland,Moord,Moord,Vergif,Man,Vrouw,20,Doodslag,Noodweer,Getuigenverklaring,Psychose,Steekpartij,Dood direct
+ECLI:NL:HR:2021:9970,2020,2018,Oost-Nederland,Moord,Doodslag,Wurging,Vrouw,Man,12,Moord,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2023:4913,2015,2024,Rotterdam,Vrijspraak,Doodslag,Anders,Man,Man,8,Moord,Geen verweer,Bekentenis,Wraak,Vergiftiging,Dood later
+ECLI:NL:GHARL:2016:1411,2022,2014,Midden-Nederland,Doodslag,Moord,Anders,Vrouw,Man,10,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2019:5121,2018,2021,Midden-Nederland,Doodslag,Moord,Anders,Man,Vrouw,12,Doodslag,Ontkenning,Bekentenis,Financieel,Steekpartij,Zwaar gewond
+ECLI:NL:RBDHA:2021:2830,2016,2022,Rotterdam,Moord,Moord,Vergif,Man,Man,15,Moord,Ontkenning,Getuigenverklaring,Ruzie,Schietpartij,Dood later
+ECLI:NL:RBDHA:2020:7425,2022,2022,Oost-Nederland,Poging tot moord,Doodslag,Vergif,Man,Vrouw,12,Moord,Geen verweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Geen letsel
+ECLI:NL:HR:2020:7226,2019,2021,Rotterdam,Moord,Poging tot moord,Mes,Man,Man,8,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2015:1329,2013,2016,Noord-Nederland,Doodslag,Poging tot moord,Mes,Man,Vrouw,20,Doodslag,Geen verweer,Forensisch bewijs,Wraak,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2020:8506,2018,2023,Noord-Nederland,Doodslag,Poging tot moord,Anders,Vrouw,Vrouw,20,Doodslag,Noodweer,Getuigenverklaring,Financieel,Verstikking,Dood direct
+ECLI:NL:PHR:2015:2439,2010,2020,Oost-Nederland,Poging tot moord,Poging tot moord,Wurging,Man,Man,20,Doodslag,Noodweer,Bekentenis,Ruzie,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2015:2168,2016,2019,Oost-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,20,Doodslag,Geen verweer,Observatie,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:HR:2018:6101,2018,2022,Midden-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2021:9393,2016,2020,Noord-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,15,Moord,Noodweer,Bekentenis,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:HR:2017:7471,2018,2014,Noord-Nederland,Moord,Doodslag,Vuurwapen,Vrouw,Man,12,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:GHARL:2020:7373,2020,2023,Midden-Nederland,Vrijspraak,Poging tot moord,Anders,Man,Man,12,Doodslag,Geen verweer,Bekentenis,Ruzie,Verstikking,Geen letsel
+ECLI:NL:HR:2017:8774,2017,2022,Amsterdam,Moord,Moord,Mes,Man,Man,15,Moord,Geen verweer,Bekentenis,Financieel,Schietpartij,Zwaar gewond
+ECLI:NL:GHARL:2021:5250,2019,2014,Oost-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,12,Doodslag,Geen verweer,Forensisch bewijs,Financieel,Schietpartij,Zwaar gewond
+ECLI:NL:GHARL:2018:1958,2013,2015,Noord-Nederland,Poging tot moord,Poging tot moord,Wurging,Man,Vrouw,10,Doodslag,Ontkenning,Observatie,Psychose,Verstikking,Dood later
+ECLI:NL:HR:2017:8276,2017,2018,Amsterdam,Vrijspraak,Poging tot moord,Mes,Man,Man,10,Moord,Noodweer,Forensisch bewijs,Ruzie,Verstikking,Dood later
+ECLI:NL:RBDHA:2023:2029,2014,2013,Oost-Nederland,Moord,Moord,Vuurwapen,Man,Man,8,Moord,Ontkenning,Getuigenverklaring,Ruzie,Steekpartij,Dood direct
+ECLI:NL:GHARL:2019:7411,2011,2021,Midden-Nederland,Moord,Doodslag,Wurging,Man,Man,10,Doodslag,Noodweer,Getuigenverklaring,Financieel,Verstikking,Dood direct
+ECLI:NL:PHR:2019:8147,2016,2012,Rotterdam,Doodslag,Moord,Vuurwapen,Man,Vrouw,15,Moord,Ontkenning,Forensisch bewijs,Financieel,Vergiftiging,Dood direct
+ECLI:NL:PHR:2016:2323,2021,2013,Amsterdam,Moord,Poging tot moord,Mes,Man,Man,20,Doodslag,Geen verweer,Observatie,Psychose,Schietpartij,Dood later
+ECLI:NL:HR:2022:2928,2010,2013,Amsterdam,Doodslag,Poging tot moord,Wurging,Man,Vrouw,12,Moord,Ontkenning,Forensisch bewijs,Financieel,Verstikking,Geen letsel
+ECLI:NL:RBDHA:2016:5336,2018,2022,Noord-Nederland,Vrijspraak,Poging tot moord,Vergif,Man,Vrouw,20,Doodslag,Ontkenning,Bekentenis,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2016:9111,2019,2019,Oost-Nederland,Moord,Moord,Vergif,Vrouw,Vrouw,20,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:GHARL:2019:2680,2018,2012,Oost-Nederland,Doodslag,Poging tot moord,Anders,Man,Vrouw,12,Doodslag,Geen verweer,Bekentenis,Financieel,Verstikking,Dood later
+ECLI:NL:PHR:2020:8435,2022,2017,Amsterdam,Poging tot moord,Poging tot moord,Vergif,Man,Man,8,Doodslag,Geen verweer,Bekentenis,Ruzie,Steekpartij,Geen letsel
+ECLI:NL:PHR:2016:3392,2019,2011,Noord-Nederland,Doodslag,Doodslag,Mes,Man,Vrouw,12,Doodslag,Geen verweer,Observatie,Wraak,Steekpartij,Dood later
+ECLI:NL:PHR:2018:8194,2020,2017,Amsterdam,Moord,Doodslag,Mes,Man,Man,12,Moord,Ontkenning,Forensisch bewijs,Psychose,Slag met voorwerp,Geen letsel
+ECLI:NL:HR:2020:9177,2019,2015,Midden-Nederland,Vrijspraak,Poging tot moord,Vuurwapen,Man,Vrouw,10,Doodslag,Ontkenning,Bekentenis,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:GHARL:2022:9138,2012,2019,Midden-Nederland,Poging tot moord,Poging tot moord,Wurging,Man,Man,8,Moord,Ontkenning,Getuigenverklaring,Wraak,Schietpartij,Dood later
+ECLI:NL:PHR:2016:1177,2011,2015,Rotterdam,Doodslag,Moord,Mes,Man,Man,12,Doodslag,Noodweer,Observatie,Ruzie,Steekpartij,Dood later
+ECLI:NL:GHARL:2021:7942,2022,2013,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,12,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2021:9519,2017,2013,Oost-Nederland,Poging tot moord,Moord,Wurging,Man,Vrouw,15,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:HR:2017:5294,2012,2020,Amsterdam,Doodslag,Doodslag,Wurging,Man,Man,15,Doodslag,Ontkenning,Observatie,Psychose,Vergiftiging,Geen letsel
+ECLI:NL:HR:2022:7732,2012,2024,Amsterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,10,Moord,Noodweer,Observatie,Psychose,Verstikking,Dood direct
+ECLI:NL:GHARL:2017:9132,2013,2015,Amsterdam,Vrijspraak,Moord,Vuurwapen,Vrouw,Man,10,Moord,Geen verweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2017:7188,2022,2011,Oost-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,12,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:HR:2016:8588,2013,2016,Rotterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Vergiftiging,Geen letsel
+ECLI:NL:PHR:2019:2797,2012,2018,Amsterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,20,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Verstikking,Dood direct
+ECLI:NL:PHR:2020:3794,2010,2022,Oost-Nederland,Moord,Moord,Wurging,Man,Vrouw,8,Doodslag,Geen verweer,Observatie,Financieel,Schietpartij,Dood direct
+ECLI:NL:GHARL:2023:4753,2016,2013,Oost-Nederland,Poging tot moord,Poging tot moord,Wurging,Man,Vrouw,10,Moord,Geen verweer,Observatie,Ruzie,Steekpartij,Zwaar gewond
+ECLI:NL:HR:2019:3316,2011,2011,Midden-Nederland,Vrijspraak,Doodslag,Vuurwapen,Man,Vrouw,12,Doodslag,Geen verweer,Observatie,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2017:5061,2020,2013,Noord-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,10,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:HR:2023:2862,2016,2016,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,8,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:PHR:2017:5631,2013,2020,Noord-Nederland,Poging tot moord,Poging tot moord,Anders,Man,Man,10,Moord,Geen verweer,Forensisch bewijs,Financieel,Verstikking,Dood direct
+ECLI:NL:HR:2015:1430,2020,2011,Noord-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,20,Doodslag,Noodweer,Bekentenis,Wraak,Vergiftiging,Dood later
+ECLI:NL:HR:2019:3553,2012,2023,Rotterdam,Doodslag,Poging tot moord,Mes,Man,Man,20,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2015:8259,2019,2021,Amsterdam,Doodslag,Moord,Mes,Man,Vrouw,10,Doodslag,Ontkenning,Observatie,Ruzie,Schietpartij,Dood later
+ECLI:NL:GHARL:2019:8012,2014,2020,Rotterdam,Doodslag,Poging tot moord,Mes,Man,Vrouw,8,Moord,Ontkenning,Bekentenis,Psychose,Verstikking,Zwaar gewond
+ECLI:NL:PHR:2021:4973,2015,2024,Rotterdam,Poging tot moord,Poging tot moord,Vergif,Man,Man,20,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Verstikking,Dood later
+ECLI:NL:RBDHA:2016:1081,2021,2021,Rotterdam,Moord,Moord,Vuurwapen,Man,Vrouw,8,Doodslag,Ontkenning,Bekentenis,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:PHR:2022:6909,2022,2015,Rotterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,20,Moord,Ontkenning,Bekentenis,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2022:3442,2011,2018,Amsterdam,Poging tot moord,Moord,Vergif,Man,Man,20,Moord,Ontkenning,Forensisch bewijs,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2017:5221,2011,2023,Rotterdam,Moord,Poging tot moord,Vuurwapen,Man,Man,10,Doodslag,Ontkenning,Observatie,Wraak,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2020:6632,2016,2020,Oost-Nederland,Doodslag,Doodslag,Anders,Man,Man,8,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:PHR:2020:8537,2018,2019,Rotterdam,Vrijspraak,Poging tot moord,Vuurwapen,Man,Man,15,Moord,Ontkenning,Getuigenverklaring,Ruzie,Schietpartij,Dood direct
+ECLI:NL:HR:2020:4060,2016,2016,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,8,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Steekpartij,Dood later
+ECLI:NL:RBDHA:2016:4482,2018,2012,Midden-Nederland,Moord,Poging tot moord,Mes,Man,Vrouw,12,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2018:2408,2015,2023,Oost-Nederland,Moord,Doodslag,Mes,Man,Vrouw,10,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Verstikking,Dood direct
+ECLI:NL:HR:2015:4854,2014,2022,Midden-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2021:4167,2018,2016,Oost-Nederland,Moord,Moord,Vuurwapen,Vrouw,Man,20,Moord,Ontkenning,Observatie,Ruzie,Steekpartij,Dood later
+ECLI:NL:PHR:2020:9564,2017,2019,Rotterdam,Doodslag,Moord,Vuurwapen,Man,Vrouw,15,Moord,Noodweer,Getuigenverklaring,Financieel,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2018:2710,2010,2014,Oost-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,15,Moord,Noodweer,Forensisch bewijs,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2023:7748,2022,2013,Rotterdam,Doodslag,Doodslag,Wurging,Man,Man,20,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Steekpartij,Dood later
+ECLI:NL:RBDHA:2019:8248,2021,2019,Midden-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,10,Doodslag,Ontkenning,Observatie,Wraak,Vergiftiging,Zwaar gewond
+ECLI:NL:HR:2016:6542,2019,2012,Noord-Nederland,Moord,Doodslag,Vuurwapen,Man,Vrouw,15,Moord,Ontkenning,Observatie,Financieel,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2018:3624,2019,2023,Rotterdam,Doodslag,Poging tot moord,Vuurwapen,Vrouw,Man,12,Moord,Ontkenning,Observatie,Financieel,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2015:928,2018,2019,Noord-Nederland,Vrijspraak,Doodslag,Vergif,Man,Man,8,Doodslag,Geen verweer,Observatie,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2022:9889,2022,2013,Amsterdam,Moord,Moord,Vuurwapen,Man,Man,8,Moord,Geen verweer,Getuigenverklaring,Ruzie,Steekpartij,Dood later
+ECLI:NL:RBDHA:2019:8893,2016,2017,Amsterdam,Moord,Moord,Vuurwapen,Man,Man,15,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:HR:2016:7160,2011,2019,Rotterdam,Vrijspraak,Moord,Mes,Man,Man,15,Doodslag,Ontkenning,Forensisch bewijs,Wraak,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2019:6092,2016,2019,Oost-Nederland,Doodslag,Poging tot moord,Mes,Man,Vrouw,15,Moord,Ontkenning,Bekentenis,Financieel,Verstikking,Dood later
+ECLI:NL:RBDHA:2020:841,2012,2017,Midden-Nederland,Doodslag,Poging tot moord,Wurging,Man,Vrouw,12,Moord,Noodweer,Observatie,Financieel,Verstikking,Dood direct
+ECLI:NL:RBDHA:2015:9443,2012,2012,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Man,8,Doodslag,Geen verweer,Getuigenverklaring,Financieel,Schietpartij,Dood direct
+ECLI:NL:PHR:2020:9164,2019,2016,Rotterdam,Doodslag,Poging tot moord,Mes,Man,Man,10,Moord,Ontkenning,Forensisch bewijs,Psychose,Steekpartij,Dood direct
+ECLI:NL:GHARL:2016:6429,2019,2014,Midden-Nederland,Doodslag,Poging tot moord,Vergif,Man,Man,12,Doodslag,Ontkenning,Bekentenis,Ruzie,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2023:4682,2019,2014,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,8,Doodslag,Geen verweer,Observatie,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2017:1684,2022,2021,Midden-Nederland,Vrijspraak,Moord,Wurging,Man,Vrouw,12,Moord,Ontkenning,Getuigenverklaring,Ruzie,Verstikking,Dood later
+ECLI:NL:RBDHA:2020:5655,2011,2016,Oost-Nederland,Doodslag,Moord,Wurging,Vrouw,Man,8,Moord,Ontkenning,Getuigenverklaring,Ruzie,Vergiftiging,Dood later
+ECLI:NL:GHARL:2017:3361,2011,2016,Rotterdam,Poging tot moord,Moord,Anders,Man,Man,10,Moord,Geen verweer,Bekentenis,Financieel,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2023:759,2019,2016,Midden-Nederland,Moord,Moord,Mes,Vrouw,Vrouw,8,Doodslag,Ontkenning,Observatie,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2015:2345,2022,2015,Amsterdam,Moord,Poging tot moord,Mes,Man,Vrouw,12,Doodslag,Noodweer,Bekentenis,Psychose,Schietpartij,Dood later
+ECLI:NL:GHARL:2022:8608,2011,2014,Amsterdam,Vrijspraak,Poging tot moord,Mes,Man,Man,10,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:RBDHA:2017:8546,2022,2023,Noord-Nederland,Moord,Poging tot moord,Mes,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:PHR:2020:5318,2014,2020,Midden-Nederland,Moord,Poging tot moord,Mes,Man,Man,12,Doodslag,Geen verweer,Bekentenis,Financieel,Vergiftiging,Dood direct
+ECLI:NL:PHR:2021:5002,2018,2019,Amsterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Man,12,Doodslag,Noodweer,Getuigenverklaring,Financieel,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2023:8451,2015,2018,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,15,Moord,Geen verweer,Bekentenis,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:RBDHA:2019:7880,2016,2019,Oost-Nederland,Doodslag,Moord,Vergif,Man,Man,20,Moord,Geen verweer,Bekentenis,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:HR:2020:5527,2014,2024,Amsterdam,Doodslag,Moord,Wurging,Man,Vrouw,8,Moord,Geen verweer,Bekentenis,Financieel,Steekpartij,Zwaar gewond
+ECLI:NL:HR:2021:9663,2016,2023,Midden-Nederland,Vrijspraak,Doodslag,Mes,Man,Vrouw,12,Moord,Ontkenning,Getuigenverklaring,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2015:9879,2020,2021,Midden-Nederland,Moord,Moord,Wurging,Man,Man,8,Moord,Noodweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2019:9577,2017,2011,Oost-Nederland,Doodslag,Doodslag,Anders,Man,Vrouw,15,Moord,Ontkenning,Forensisch bewijs,Psychose,Vergiftiging,Dood later
+ECLI:NL:PHR:2015:9660,2019,2012,Noord-Nederland,Poging tot moord,Doodslag,Anders,Vrouw,Vrouw,8,Doodslag,Ontkenning,Bekentenis,Psychose,Schietpartij,Dood later
+ECLI:NL:RBDHA:2017:8689,2019,2021,Rotterdam,Moord,Poging tot moord,Wurging,Man,Man,20,Moord,Geen verweer,Forensisch bewijs,Financieel,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2017:4068,2017,2016,Oost-Nederland,Moord,Doodslag,Wurging,Man,Vrouw,12,Doodslag,Noodweer,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Zwaar gewond
+ECLI:NL:HR:2016:3225,2010,2018,Rotterdam,Doodslag,Doodslag,Anders,Man,Man,10,Doodslag,Geen verweer,Forensisch bewijs,Wraak,Vergiftiging,Dood direct
+ECLI:NL:HR:2022:5239,2012,2014,Oost-Nederland,Doodslag,Moord,Mes,Man,Man,20,Doodslag,Geen verweer,Observatie,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2017:6865,2014,2021,Rotterdam,Poging tot moord,Doodslag,Mes,Man,Vrouw,8,Moord,Geen verweer,Forensisch bewijs,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2021:8321,2016,2020,Oost-Nederland,Moord,Poging tot moord,Vergif,Man,Man,8,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2015:2362,2012,2020,Noord-Nederland,Vrijspraak,Poging tot moord,Wurging,Man,Man,10,Doodslag,Noodweer,Observatie,Ruzie,Vergiftiging,Dood later
+ECLI:NL:PHR:2023:5425,2019,2014,Amsterdam,Moord,Moord,Vuurwapen,Man,Vrouw,10,Moord,Noodweer,Observatie,Psychose,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2023:6273,2019,2011,Oost-Nederland,Moord,Moord,Vuurwapen,Man,Man,20,Moord,Ontkenning,Observatie,Psychose,Verstikking,Zwaar gewond
+ECLI:NL:GHARL:2017:7631,2020,2021,Rotterdam,Moord,Doodslag,Vuurwapen,Man,Man,15,Moord,Noodweer,Getuigenverklaring,Financieel,Steekpartij,Dood direct
+ECLI:NL:GHARL:2023:5904,2021,2016,Amsterdam,Doodslag,Moord,Wurging,Vrouw,Man,10,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2022:3250,2016,2017,Rotterdam,Vrijspraak,Moord,Vuurwapen,Vrouw,Man,10,Moord,Noodweer,Bekentenis,Ruzie,Steekpartij,Dood later
+ECLI:NL:PHR:2019:9243,2010,2023,Noord-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,12,Moord,Ontkenning,Bekentenis,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2018:4976,2016,2012,Midden-Nederland,Moord,Moord,Wurging,Man,Man,15,Moord,Geen verweer,Forensisch bewijs,Ruzie,Steekpartij,Dood direct
+ECLI:NL:GHARL:2018:8111,2015,2017,Oost-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,10,Doodslag,Noodweer,Observatie,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2022:5814,2021,2015,Oost-Nederland,Vrijspraak,Poging tot moord,Vuurwapen,Man,Man,15,Moord,Noodweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2019:2096,2013,2019,Amsterdam,Moord,Poging tot moord,Mes,Man,Vrouw,10,Doodslag,Geen verweer,Forensisch bewijs,Psychose,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2021:5754,2010,2022,Amsterdam,Doodslag,Poging tot moord,Wurging,Man,Vrouw,15,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2019:789,2021,2015,Oost-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,12,Doodslag,Geen verweer,Observatie,Psychose,Verstikking,Dood direct
+ECLI:NL:GHARL:2016:5774,2017,2011,Midden-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Man,10,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Verstikking,Dood direct
+ECLI:NL:RBDHA:2019:7949,2014,2019,Amsterdam,Vrijspraak,Doodslag,Wurging,Vrouw,Man,10,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Zwaar gewond
+ECLI:NL:PHR:2018:8924,2015,2024,Amsterdam,Doodslag,Poging tot moord,Wurging,Man,Man,8,Moord,Ontkenning,Bekentenis,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:GHARL:2023:4550,2010,2023,Amsterdam,Vrijspraak,Moord,Wurging,Man,Man,20,Moord,Geen verweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:PHR:2016:9714,2015,2016,Midden-Nederland,Poging tot moord,Moord,Vuurwapen,Man,Man,10,Moord,Noodweer,Getuigenverklaring,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2018:931,2022,2019,Amsterdam,Doodslag,Poging tot moord,Wurging,Man,Man,8,Doodslag,Noodweer,Getuigenverklaring,Psychose,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2018:960,2014,2023,Amsterdam,Doodslag,Moord,Vuurwapen,Man,Vrouw,15,Moord,Noodweer,Bekentenis,Psychose,Schietpartij,Zwaar gewond
+ECLI:NL:HR:2021:5511,2014,2019,Noord-Nederland,Poging tot moord,Poging tot moord,Mes,Vrouw,Vrouw,8,Moord,Ontkenning,Getuigenverklaring,Wraak,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2016:2352,2014,2018,Amsterdam,Doodslag,Poging tot moord,Wurging,Vrouw,Vrouw,15,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Vergiftiging,Dood later
+ECLI:NL:HR:2023:2687,2017,2018,Noord-Nederland,Moord,Moord,Wurging,Man,Man,20,Doodslag,Ontkenning,Observatie,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2022:7922,2021,2011,Rotterdam,Vrijspraak,Poging tot moord,Mes,Man,Man,20,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2019:5362,2020,2015,Rotterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Man,10,Doodslag,Geen verweer,Bekentenis,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2015:1565,2011,2021,Oost-Nederland,Vrijspraak,Poging tot moord,Vuurwapen,Man,Man,10,Moord,Ontkenning,Bekentenis,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2023:711,2013,2014,Noord-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,8,Doodslag,Noodweer,Getuigenverklaring,Financieel,Schietpartij,Dood later
+ECLI:NL:PHR:2021:2980,2012,2016,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,15,Moord,Geen verweer,Observatie,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2021:8216,2014,2019,Amsterdam,Moord,Moord,Mes,Man,Man,12,Doodslag,Geen verweer,Getuigenverklaring,Wraak,Verstikking,Dood direct
+ECLI:NL:PHR:2019:713,2021,2012,Midden-Nederland,Moord,Moord,Anders,Man,Vrouw,20,Moord,Noodweer,Observatie,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:HR:2019:9405,2017,2012,Amsterdam,Doodslag,Moord,Mes,Man,Vrouw,15,Moord,Ontkenning,Observatie,Financieel,Verstikking,Dood later
+ECLI:NL:HR:2020:4762,2022,2013,Amsterdam,Doodslag,Poging tot moord,Vergif,Man,Man,20,Moord,Ontkenning,Observatie,Ruzie,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2023:8690,2015,2023,Noord-Nederland,Doodslag,Doodslag,Vergif,Man,Man,10,Moord,Ontkenning,Getuigenverklaring,Ruzie,Verstikking,Dood direct
+ECLI:NL:RBDHA:2017:8361,2014,2019,Midden-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,12,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2019:3259,2021,2019,Rotterdam,Poging tot moord,Poging tot moord,Vuurwapen,Man,Vrouw,15,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:HR:2020:2762,2016,2011,Rotterdam,Moord,Moord,Wurging,Man,Man,20,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Geen letsel
+ECLI:NL:RBDHA:2019:3150,2019,2021,Midden-Nederland,Moord,Doodslag,Vuurwapen,Man,Man,10,Moord,Ontkenning,Forensisch bewijs,Psychose,Steekpartij,Zwaar gewond
+ECLI:NL:HR:2020:4933,2020,2012,Amsterdam,Vrijspraak,Poging tot moord,Wurging,Man,Vrouw,12,Doodslag,Ontkenning,Bekentenis,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:PHR:2017:6743,2011,2014,Amsterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,10,Doodslag,Ontkenning,Bekentenis,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2023:5472,2013,2021,Oost-Nederland,Vrijspraak,Doodslag,Vuurwapen,Man,Man,12,Doodslag,Ontkenning,Observatie,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:HR:2021:1662,2017,2021,Midden-Nederland,Moord,Poging tot moord,Mes,Man,Man,15,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Steekpartij,Dood later
+ECLI:NL:PHR:2017:7922,2013,2023,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Man,Vrouw,15,Doodslag,Ontkenning,Getuigenverklaring,Wraak,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2018:211,2016,2014,Midden-Nederland,Moord,Moord,Anders,Man,Man,15,Doodslag,Ontkenning,Bekentenis,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:GHARL:2021:3958,2021,2024,Noord-Nederland,Moord,Moord,Mes,Man,Man,20,Doodslag,Noodweer,Observatie,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2019:5500,2017,2021,Amsterdam,Moord,Poging tot moord,Anders,Man,Vrouw,12,Moord,Ontkenning,Getuigenverklaring,Ruzie,Steekpartij,Dood direct
+ECLI:NL:GHARL:2015:4385,2022,2017,Rotterdam,Doodslag,Moord,Vuurwapen,Man,Man,20,Moord,Noodweer,Bekentenis,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2018:1117,2018,2024,Rotterdam,Vrijspraak,Moord,Wurging,Vrouw,Man,15,Doodslag,Geen verweer,Observatie,Wraak,Schietpartij,Dood direct
+ECLI:NL:HR:2022:5126,2015,2012,Midden-Nederland,Doodslag,Doodslag,Wurging,Man,Vrouw,12,Moord,Ontkenning,Bekentenis,Wraak,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2021:8333,2010,2014,Oost-Nederland,Vrijspraak,Moord,Wurging,Man,Man,8,Moord,Noodweer,Getuigenverklaring,Psychose,Schietpartij,Dood direct
+ECLI:NL:GHARL:2016:4933,2018,2019,Oost-Nederland,Vrijspraak,Poging tot moord,Vergif,Vrouw,Man,10,Moord,Ontkenning,Observatie,Financieel,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2018:3690,2022,2024,Amsterdam,Doodslag,Doodslag,Anders,Man,Man,8,Moord,Geen verweer,Observatie,Wraak,Vergiftiging,Geen letsel
+ECLI:NL:PHR:2022:2609,2012,2022,Oost-Nederland,Moord,Doodslag,Mes,Man,Man,12,Doodslag,Noodweer,Forensisch bewijs,Wraak,Steekpartij,Dood later
+ECLI:NL:RBDHA:2020:6913,2011,2022,Amsterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,15,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Slag met voorwerp,Geen letsel
+ECLI:NL:RBDHA:2023:3678,2014,2023,Rotterdam,Doodslag,Doodslag,Vuurwapen,Man,Man,15,Doodslag,Geen verweer,Forensisch bewijs,Wraak,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2016:8709,2021,2017,Oost-Nederland,Doodslag,Doodslag,Mes,Man,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Steekpartij,Dood later
+ECLI:NL:RBDHA:2023:6027,2018,2021,Midden-Nederland,Poging tot moord,Doodslag,Mes,Vrouw,Man,10,Doodslag,Ontkenning,Forensisch bewijs,Wraak,Vergiftiging,Dood direct
+ECLI:NL:HR:2016:1111,2016,2024,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,15,Moord,Noodweer,Observatie,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:PHR:2023:2555,2012,2012,Amsterdam,Moord,Poging tot moord,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Observatie,Financieel,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2020:8625,2022,2022,Midden-Nederland,Moord,Poging tot moord,Vergif,Man,Man,10,Moord,Noodweer,Getuigenverklaring,Financieel,Vergiftiging,Geen letsel
+ECLI:NL:RBDHA:2016:3465,2018,2021,Noord-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,15,Moord,Noodweer,Bekentenis,Financieel,Verstikking,Dood direct
+ECLI:NL:RBDHA:2016:8461,2019,2013,Noord-Nederland,Poging tot moord,Moord,Mes,Man,Vrouw,12,Doodslag,Geen verweer,Observatie,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2015:7529,2010,2011,Noord-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,8,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2023:6906,2012,2018,Oost-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Man,12,Doodslag,Geen verweer,Bekentenis,Ruzie,Verstikking,Dood direct
+ECLI:NL:RBDHA:2015:9255,2013,2022,Midden-Nederland,Doodslag,Doodslag,Wurging,Man,Vrouw,15,Moord,Ontkenning,Observatie,Relatieproblemen,Steekpartij,Zwaar gewond
+ECLI:NL:RBDHA:2019:456,2013,2016,Noord-Nederland,Moord,Doodslag,Vuurwapen,Man,Man,10,Doodslag,Ontkenning,Bekentenis,Psychose,Schietpartij,Geen letsel
+ECLI:NL:RBDHA:2019:149,2010,2011,Rotterdam,Moord,Poging tot moord,Mes,Vrouw,Man,15,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Verstikking,Dood direct
+ECLI:NL:PHR:2016:842,2013,2012,Midden-Nederland,Moord,Poging tot moord,Mes,Man,Man,15,Moord,Geen verweer,Bekentenis,Psychose,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2020:1144,2010,2012,Rotterdam,Doodslag,Moord,Anders,Man,Man,20,Doodslag,Ontkenning,Observatie,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2016:7834,2017,2011,Amsterdam,Moord,Moord,Mes,Man,Vrouw,15,Doodslag,Noodweer,Observatie,Financieel,Schietpartij,Dood later
+ECLI:NL:HR:2019:6798,2010,2013,Noord-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,10,Moord,Noodweer,Bekentenis,Financieel,Steekpartij,Geen letsel
+ECLI:NL:PHR:2017:6987,2015,2023,Rotterdam,Vrijspraak,Doodslag,Wurging,Vrouw,Vrouw,8,Moord,Geen verweer,Observatie,Wraak,Vergiftiging,Dood later
+ECLI:NL:GHARL:2021:7448,2021,2015,Oost-Nederland,Doodslag,Doodslag,Mes,Man,Vrouw,12,Doodslag,Noodweer,Getuigenverklaring,Financieel,Steekpartij,Zwaar gewond
+ECLI:NL:RBDHA:2021:1414,2013,2019,Oost-Nederland,Moord,Poging tot moord,Mes,Man,Man,12,Moord,Geen verweer,Bekentenis,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:PHR:2020:2043,2014,2012,Noord-Nederland,Vrijspraak,Doodslag,Vuurwapen,Man,Man,20,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Verstikking,Zwaar gewond
+ECLI:NL:PHR:2023:6539,2015,2020,Amsterdam,Doodslag,Moord,Mes,Vrouw,Man,10,Doodslag,Noodweer,Observatie,Financieel,Verstikking,Dood later
+ECLI:NL:PHR:2018:156,2017,2024,Midden-Nederland,Moord,Poging tot moord,Vergif,Man,Man,15,Moord,Ontkenning,Forensisch bewijs,Psychose,Slag met voorwerp,Geen letsel
+ECLI:NL:HR:2019:7685,2018,2014,Amsterdam,Moord,Doodslag,Vuurwapen,Man,Man,8,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:RBDHA:2023:6314,2016,2015,Midden-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,20,Doodslag,Noodweer,Getuigenverklaring,Psychose,Verstikking,Dood direct
+ECLI:NL:PHR:2018:7646,2020,2017,Midden-Nederland,Doodslag,Moord,Mes,Man,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:GHARL:2017:4616,2011,2017,Oost-Nederland,Poging tot moord,Poging tot moord,Vuurwapen,Vrouw,Vrouw,12,Doodslag,Noodweer,Observatie,Psychose,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2016:627,2020,2018,Noord-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,12,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:RBDHA:2015:4043,2010,2021,Rotterdam,Moord,Poging tot moord,Mes,Man,Man,15,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2016:1753,2013,2017,Oost-Nederland,Doodslag,Doodslag,Anders,Man,Man,15,Moord,Noodweer,Forensisch bewijs,Relatieproblemen,Verstikking,Geen letsel
+ECLI:NL:HR:2022:9894,2015,2017,Noord-Nederland,Moord,Moord,Vergif,Man,Man,15,Doodslag,Noodweer,Forensisch bewijs,Financieel,Schietpartij,Dood direct
+ECLI:NL:HR:2018:824,2017,2016,Amsterdam,Doodslag,Moord,Mes,Man,Man,15,Moord,Ontkenning,Forensisch bewijs,Financieel,Steekpartij,Dood later
+ECLI:NL:RBDHA:2022:3939,2019,2011,Amsterdam,Moord,Doodslag,Mes,Man,Man,15,Moord,Ontkenning,Observatie,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2015:2395,2017,2017,Oost-Nederland,Doodslag,Moord,Vuurwapen,Vrouw,Vrouw,12,Moord,Geen verweer,Observatie,Psychose,Schietpartij,Zwaar gewond
+ECLI:NL:GHARL:2018:9538,2012,2021,Rotterdam,Doodslag,Moord,Wurging,Vrouw,Vrouw,8,Moord,Ontkenning,Forensisch bewijs,Ruzie,Schietpartij,Dood later
+ECLI:NL:GHARL:2020:3981,2017,2012,Oost-Nederland,Vrijspraak,Moord,Vuurwapen,Vrouw,Vrouw,12,Doodslag,Geen verweer,Bekentenis,Psychose,Schietpartij,Dood direct
+ECLI:NL:GHARL:2017:8640,2019,2019,Rotterdam,Vrijspraak,Poging tot moord,Wurging,Vrouw,Vrouw,15,Moord,Geen verweer,Forensisch bewijs,Ruzie,Verstikking,Dood direct
+ECLI:NL:PHR:2021:5023,2018,2011,Oost-Nederland,Moord,Doodslag,Anders,Vrouw,Vrouw,10,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:GHARL:2015:9221,2015,2021,Oost-Nederland,Vrijspraak,Doodslag,Vuurwapen,Man,Man,12,Doodslag,Noodweer,Observatie,Wraak,Schietpartij,Dood direct
+ECLI:NL:PHR:2021:9207,2015,2022,Noord-Nederland,Poging tot moord,Moord,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Bekentenis,Ruzie,Steekpartij,Zwaar gewond
+ECLI:NL:RBDHA:2015:5742,2012,2020,Amsterdam,Moord,Poging tot moord,Wurging,Vrouw,Vrouw,12,Doodslag,Ontkenning,Forensisch bewijs,Financieel,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2023:5322,2014,2012,Amsterdam,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,15,Moord,Noodweer,Observatie,Wraak,Schietpartij,Dood later
+ECLI:NL:RBDHA:2021:2544,2021,2023,Rotterdam,Doodslag,Moord,Mes,Man,Man,15,Doodslag,Noodweer,Bekentenis,Relatieproblemen,Slag met voorwerp,Geen letsel
+ECLI:NL:GHARL:2021:3112,2021,2022,Rotterdam,Moord,Poging tot moord,Mes,Vrouw,Vrouw,10,Doodslag,Noodweer,Bekentenis,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2018:3792,2011,2020,Oost-Nederland,Vrijspraak,Moord,Mes,Man,Vrouw,20,Moord,Noodweer,Observatie,Financieel,Verstikking,Dood direct
+ECLI:NL:GHARL:2017:7686,2014,2011,Amsterdam,Vrijspraak,Poging tot moord,Vuurwapen,Man,Vrouw,10,Doodslag,Noodweer,Bekentenis,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2023:6861,2010,2022,Amsterdam,Doodslag,Moord,Vergif,Man,Man,20,Doodslag,Ontkenning,Bekentenis,Ruzie,Verstikking,Dood later
+ECLI:NL:RBDHA:2023:8783,2016,2024,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,10,Doodslag,Ontkenning,Bekentenis,Ruzie,Schietpartij,Dood direct
+ECLI:NL:PHR:2021:4078,2010,2012,Oost-Nederland,Moord,Doodslag,Anders,Man,Man,8,Moord,Geen verweer,Forensisch bewijs,Wraak,Verstikking,Dood direct
+ECLI:NL:GHARL:2018:5511,2012,2016,Rotterdam,Doodslag,Moord,Vergif,Man,Vrouw,20,Doodslag,Noodweer,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:HR:2022:6179,2019,2019,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Wraak,Steekpartij,Zwaar gewond
+ECLI:NL:HR:2023:3220,2022,2012,Amsterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Man,12,Doodslag,Ontkenning,Forensisch bewijs,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:HR:2019:6279,2013,2015,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Man,Vrouw,10,Moord,Ontkenning,Bekentenis,Psychose,Schietpartij,Zwaar gewond
+ECLI:NL:HR:2016:3182,2013,2023,Rotterdam,Moord,Moord,Mes,Man,Man,20,Doodslag,Noodweer,Bekentenis,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2022:3522,2020,2021,Noord-Nederland,Vrijspraak,Poging tot moord,Vergif,Man,Vrouw,20,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2019:351,2013,2015,Oost-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Vrouw,8,Doodslag,Noodweer,Forensisch bewijs,Wraak,Vergiftiging,Geen letsel
+ECLI:NL:PHR:2018:2022,2020,2020,Oost-Nederland,Doodslag,Doodslag,Wurging,Vrouw,Vrouw,8,Moord,Ontkenning,Forensisch bewijs,Financieel,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2018:3450,2013,2012,Rotterdam,Moord,Poging tot moord,Wurging,Vrouw,Vrouw,15,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2018:9145,2014,2015,Rotterdam,Doodslag,Doodslag,Mes,Man,Vrouw,8,Moord,Ontkenning,Bekentenis,Ruzie,Vergiftiging,Dood later
+ECLI:NL:GHARL:2019:6336,2020,2023,Noord-Nederland,Doodslag,Doodslag,Wurging,Man,Vrouw,12,Moord,Ontkenning,Forensisch bewijs,Financieel,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2023:5986,2016,2018,Oost-Nederland,Vrijspraak,Poging tot moord,Vergif,Man,Man,12,Doodslag,Noodweer,Observatie,Financieel,Schietpartij,Dood direct
+ECLI:NL:GHARL:2019:5992,2018,2017,Rotterdam,Moord,Doodslag,Mes,Man,Vrouw,20,Moord,Geen verweer,Observatie,Wraak,Verstikking,Dood later
+ECLI:NL:RBDHA:2022:1715,2010,2017,Noord-Nederland,Poging tot moord,Doodslag,Mes,Man,Man,8,Doodslag,Ontkenning,Bekentenis,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2020:3428,2022,2024,Oost-Nederland,Doodslag,Doodslag,Vergif,Man,Man,8,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2020:6881,2022,2021,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Steekpartij,Dood direct
+ECLI:NL:HR:2018:2490,2020,2011,Noord-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,10,Doodslag,Noodweer,Observatie,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:HR:2019:9165,2010,2018,Amsterdam,Vrijspraak,Doodslag,Anders,Man,Man,12,Moord,Ontkenning,Bekentenis,Psychose,Verstikking,Dood direct
+ECLI:NL:RBDHA:2019:2597,2017,2013,Midden-Nederland,Doodslag,Doodslag,Mes,Man,Man,20,Doodslag,Ontkenning,Forensisch bewijs,Financieel,Steekpartij,Geen letsel
+ECLI:NL:PHR:2020:3868,2012,2019,Oost-Nederland,Poging tot moord,Doodslag,Vuurwapen,Vrouw,Vrouw,10,Doodslag,Geen verweer,Forensisch bewijs,Wraak,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2018:8280,2020,2014,Noord-Nederland,Moord,Moord,Vuurwapen,Man,Man,10,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Steekpartij,Zwaar gewond
+ECLI:NL:GHARL:2019:8105,2012,2013,Amsterdam,Moord,Doodslag,Anders,Man,Man,20,Moord,Noodweer,Bekentenis,Wraak,Verstikking,Dood later
+ECLI:NL:RBDHA:2022:2856,2019,2022,Amsterdam,Doodslag,Doodslag,Mes,Man,Man,15,Doodslag,Noodweer,Observatie,Psychose,Schietpartij,Zwaar gewond
+ECLI:NL:GHARL:2017:2393,2022,2017,Amsterdam,Moord,Moord,Vergif,Man,Man,10,Moord,Ontkenning,Observatie,Psychose,Steekpartij,Dood later
+ECLI:NL:RBDHA:2017:8982,2010,2023,Rotterdam,Moord,Poging tot moord,Mes,Man,Vrouw,12,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:HR:2023:654,2013,2023,Oost-Nederland,Vrijspraak,Moord,Wurging,Man,Man,10,Doodslag,Noodweer,Observatie,Relatieproblemen,Verstikking,Geen letsel
+ECLI:NL:HR:2015:204,2014,2024,Amsterdam,Doodslag,Doodslag,Mes,Man,Man,12,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2017:3891,2019,2019,Midden-Nederland,Moord,Doodslag,Anders,Man,Vrouw,12,Doodslag,Geen verweer,Bekentenis,Financieel,Schietpartij,Dood later
+ECLI:NL:HR:2017:249,2022,2015,Rotterdam,Doodslag,Doodslag,Wurging,Man,Vrouw,15,Moord,Geen verweer,Forensisch bewijs,Ruzie,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2023:7571,2014,2021,Midden-Nederland,Vrijspraak,Moord,Wurging,Man,Man,10,Doodslag,Ontkenning,Bekentenis,Financieel,Steekpartij,Dood direct
+ECLI:NL:GHARL:2015:8016,2021,2013,Amsterdam,Doodslag,Doodslag,Mes,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Wraak,Schietpartij,Dood later
+ECLI:NL:RBDHA:2015:208,2021,2015,Oost-Nederland,Vrijspraak,Poging tot moord,Vuurwapen,Man,Man,10,Moord,Ontkenning,Observatie,Psychose,Slag met voorwerp,Zwaar gewond
+ECLI:NL:RBDHA:2015:374,2020,2021,Oost-Nederland,Doodslag,Doodslag,Anders,Man,Vrouw,8,Doodslag,Ontkenning,Bekentenis,Financieel,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2023:4797,2014,2023,Midden-Nederland,Doodslag,Moord,Vuurwapen,Vrouw,Man,8,Moord,Geen verweer,Getuigenverklaring,Ruzie,Verstikking,Dood direct
+ECLI:NL:HR:2023:7154,2016,2024,Oost-Nederland,Moord,Moord,Anders,Vrouw,Man,8,Doodslag,Ontkenning,Bekentenis,Financieel,Steekpartij,Dood direct
+ECLI:NL:PHR:2016:1678,2016,2022,Amsterdam,Poging tot moord,Poging tot moord,Mes,Man,Vrouw,20,Moord,Ontkenning,Observatie,Wraak,Schietpartij,Dood later
+ECLI:NL:PHR:2018:3244,2015,2021,Noord-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,8,Moord,Ontkenning,Bekentenis,Financieel,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2020:4479,2017,2016,Midden-Nederland,Moord,Doodslag,Wurging,Man,Vrouw,20,Doodslag,Geen verweer,Getuigenverklaring,Financieel,Verstikking,Dood later
+ECLI:NL:RBDHA:2016:6212,2014,2011,Oost-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,15,Doodslag,Ontkenning,Observatie,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2022:9356,2013,2019,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,15,Moord,Geen verweer,Observatie,Psychose,Verstikking,Zwaar gewond
+ECLI:NL:PHR:2018:5014,2017,2024,Midden-Nederland,Poging tot moord,Moord,Mes,Man,Vrouw,8,Moord,Noodweer,Getuigenverklaring,Ruzie,Verstikking,Dood later
+ECLI:NL:HR:2015:1631,2014,2019,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,10,Doodslag,Ontkenning,Bekentenis,Ruzie,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2021:6279,2020,2013,Midden-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,12,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2015:254,2018,2012,Midden-Nederland,Moord,Doodslag,Mes,Man,Man,12,Doodslag,Noodweer,Getuigenverklaring,Psychose,Verstikking,Dood direct
+ECLI:NL:PHR:2016:8289,2019,2011,Oost-Nederland,Vrijspraak,Moord,Wurging,Man,Man,8,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Schietpartij,Dood later
+ECLI:NL:RBDHA:2020:9370,2016,2011,Noord-Nederland,Vrijspraak,Doodslag,Wurging,Man,Man,10,Moord,Noodweer,Forensisch bewijs,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:HR:2023:797,2019,2020,Oost-Nederland,Moord,Doodslag,Vuurwapen,Man,Man,10,Doodslag,Geen verweer,Bekentenis,Ruzie,Vergiftiging,Dood later
+ECLI:NL:PHR:2018:9386,2011,2020,Rotterdam,Doodslag,Moord,Wurging,Man,Man,8,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2019:862,2010,2017,Oost-Nederland,Doodslag,Moord,Vergif,Man,Vrouw,12,Doodslag,Geen verweer,Getuigenverklaring,Financieel,Verstikking,Zwaar gewond
+ECLI:NL:HR:2019:8997,2018,2019,Oost-Nederland,Vrijspraak,Moord,Vuurwapen,Man,Man,8,Doodslag,Ontkenning,Bekentenis,Ruzie,Schietpartij,Dood later
+ECLI:NL:HR:2017:5252,2020,2019,Rotterdam,Doodslag,Doodslag,Mes,Man,Man,15,Doodslag,Noodweer,Forensisch bewijs,Financieel,Verstikking,Dood direct
+ECLI:NL:HR:2018:9717,2015,2012,Oost-Nederland,Moord,Moord,Mes,Man,Man,15,Moord,Geen verweer,Observatie,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2021:1360,2018,2015,Rotterdam,Doodslag,Doodslag,Anders,Man,Man,10,Doodslag,Noodweer,Observatie,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2017:9339,2020,2014,Amsterdam,Moord,Moord,Vuurwapen,Man,Vrouw,12,Doodslag,Ontkenning,Observatie,Psychose,Schietpartij,Dood direct
+ECLI:NL:PHR:2021:8956,2019,2022,Rotterdam,Poging tot moord,Moord,Wurging,Man,Vrouw,8,Doodslag,Geen verweer,Getuigenverklaring,Psychose,Vergiftiging,Dood later
+ECLI:NL:GHARL:2021:2392,2019,2022,Noord-Nederland,Moord,Doodslag,Vuurwapen,Man,Vrouw,8,Moord,Ontkenning,Getuigenverklaring,Psychose,Vergiftiging,Dood direct
+ECLI:NL:HR:2023:5766,2014,2022,Oost-Nederland,Doodslag,Moord,Mes,Vrouw,Man,8,Moord,Noodweer,Observatie,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:HR:2016:7261,2014,2016,Noord-Nederland,Vrijspraak,Poging tot moord,Vuurwapen,Man,Man,20,Moord,Ontkenning,Observatie,Financieel,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2016:5680,2020,2014,Oost-Nederland,Moord,Moord,Mes,Vrouw,Man,15,Moord,Geen verweer,Forensisch bewijs,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2020:585,2011,2017,Rotterdam,Doodslag,Doodslag,Anders,Man,Vrouw,8,Doodslag,Ontkenning,Observatie,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2022:8138,2017,2021,Noord-Nederland,Doodslag,Doodslag,Mes,Vrouw,Man,8,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2020:9160,2011,2024,Oost-Nederland,Vrijspraak,Poging tot moord,Vergif,Man,Man,20,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2021:3143,2015,2019,Oost-Nederland,Vrijspraak,Doodslag,Vergif,Man,Man,20,Moord,Ontkenning,Bekentenis,Ruzie,Verstikking,Dood later
+ECLI:NL:RBDHA:2016:4939,2014,2013,Amsterdam,Doodslag,Moord,Mes,Man,Man,10,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Schietpartij,Dood direct
+ECLI:NL:PHR:2016:1444,2020,2013,Noord-Nederland,Moord,Poging tot moord,Mes,Man,Man,8,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Steekpartij,Zwaar gewond
+ECLI:NL:GHARL:2017:6325,2015,2013,Rotterdam,Doodslag,Poging tot moord,Mes,Man,Man,20,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Slag met voorwerp,Zwaar gewond
+ECLI:NL:PHR:2021:5288,2014,2014,Oost-Nederland,Moord,Moord,Mes,Man,Vrouw,15,Doodslag,Ontkenning,Observatie,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2016:1599,2014,2020,Noord-Nederland,Vrijspraak,Moord,Vuurwapen,Vrouw,Vrouw,10,Moord,Ontkenning,Bekentenis,Ruzie,Steekpartij,Zwaar gewond
+ECLI:NL:HR:2019:7386,2020,2024,Oost-Nederland,Poging tot moord,Poging tot moord,Vuurwapen,Man,Man,20,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2019:1774,2021,2015,Amsterdam,Moord,Doodslag,Mes,Man,Vrouw,12,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Zwaar gewond
+ECLI:NL:PHR:2016:3170,2020,2014,Amsterdam,Moord,Poging tot moord,Wurging,Man,Man,12,Doodslag,Noodweer,Getuigenverklaring,Relatieproblemen,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2022:9225,2014,2012,Midden-Nederland,Doodslag,Moord,Wurging,Man,Man,15,Moord,Noodweer,Getuigenverklaring,Financieel,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2016:530,2013,2013,Noord-Nederland,Moord,Doodslag,Mes,Man,Man,20,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:HR:2020:9180,2012,2021,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,8,Moord,Noodweer,Observatie,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2020:6411,2018,2023,Oost-Nederland,Doodslag,Moord,Mes,Man,Man,12,Doodslag,Geen verweer,Getuigenverklaring,Financieel,Steekpartij,Dood later
+ECLI:NL:HR:2019:6879,2022,2020,Midden-Nederland,Vrijspraak,Moord,Mes,Man,Vrouw,12,Moord,Ontkenning,Observatie,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2016:9267,2013,2024,Rotterdam,Vrijspraak,Doodslag,Wurging,Man,Man,15,Moord,Ontkenning,Forensisch bewijs,Relatieproblemen,Slag met voorwerp,Geen letsel
+ECLI:NL:PHR:2023:2878,2010,2011,Oost-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Man,10,Moord,Geen verweer,Bekentenis,Wraak,Slag met voorwerp,Zwaar gewond
+ECLI:NL:RBDHA:2017:2374,2022,2024,Amsterdam,Moord,Poging tot moord,Wurging,Man,Vrouw,8,Doodslag,Ontkenning,Forensisch bewijs,Financieel,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2019:4497,2022,2023,Midden-Nederland,Doodslag,Poging tot moord,Vergif,Man,Man,12,Moord,Geen verweer,Observatie,Wraak,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2017:1136,2022,2019,Oost-Nederland,Vrijspraak,Doodslag,Vergif,Vrouw,Man,20,Doodslag,Ontkenning,Observatie,Financieel,Steekpartij,Dood direct
+ECLI:NL:PHR:2021:4621,2019,2018,Amsterdam,Vrijspraak,Doodslag,Wurging,Man,Man,15,Moord,Ontkenning,Bekentenis,Relatieproblemen,Steekpartij,Geen letsel
+ECLI:NL:RBDHA:2019:8033,2016,2021,Midden-Nederland,Doodslag,Doodslag,Wurging,Man,Man,15,Moord,Noodweer,Getuigenverklaring,Relatieproblemen,Schietpartij,Geen letsel
+ECLI:NL:HR:2020:4223,2020,2019,Rotterdam,Vrijspraak,Poging tot moord,Vergif,Man,Man,12,Doodslag,Noodweer,Observatie,Psychose,Steekpartij,Dood direct
+ECLI:NL:PHR:2022:9828,2015,2012,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Vrouw,Man,15,Doodslag,Noodweer,Bekentenis,Financieel,Schietpartij,Dood later
+ECLI:NL:PHR:2022:1852,2020,2015,Rotterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,8,Moord,Ontkenning,Getuigenverklaring,Financieel,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2019:210,2012,2021,Rotterdam,Doodslag,Poging tot moord,Mes,Man,Man,10,Moord,Ontkenning,Forensisch bewijs,Ruzie,Verstikking,Dood direct
+ECLI:NL:RBDHA:2020:6324,2021,2012,Midden-Nederland,Vrijspraak,Doodslag,Mes,Man,Man,15,Moord,Geen verweer,Bekentenis,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:GHARL:2022:5584,2010,2015,Oost-Nederland,Moord,Moord,Wurging,Man,Vrouw,20,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2017:5022,2020,2012,Oost-Nederland,Vrijspraak,Moord,Wurging,Man,Man,12,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Schietpartij,Dood direct
+ECLI:NL:GHARL:2018:7948,2017,2014,Rotterdam,Doodslag,Moord,Anders,Man,Man,15,Doodslag,Noodweer,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2017:6624,2014,2022,Amsterdam,Moord,Moord,Vuurwapen,Man,Man,12,Doodslag,Noodweer,Bekentenis,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:GHARL:2019:8144,2014,2020,Amsterdam,Doodslag,Moord,Mes,Man,Man,20,Moord,Ontkenning,Bekentenis,Financieel,Schietpartij,Zwaar gewond
+ECLI:NL:PHR:2020:6261,2016,2018,Oost-Nederland,Moord,Poging tot moord,Mes,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Wraak,Verstikking,Dood later
+ECLI:NL:GHARL:2021:6080,2016,2016,Amsterdam,Poging tot moord,Poging tot moord,Vuurwapen,Man,Vrouw,10,Doodslag,Ontkenning,Bekentenis,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2018:9803,2016,2016,Amsterdam,Doodslag,Moord,Anders,Man,Man,15,Doodslag,Ontkenning,Observatie,Psychose,Verstikking,Dood later
+ECLI:NL:PHR:2023:540,2021,2013,Rotterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Man,8,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:RBDHA:2018:7283,2010,2021,Oost-Nederland,Vrijspraak,Doodslag,Mes,Vrouw,Man,15,Moord,Ontkenning,Bekentenis,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2016:6803,2019,2021,Midden-Nederland,Moord,Doodslag,Wurging,Vrouw,Man,15,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2017:5061,2021,2014,Rotterdam,Vrijspraak,Doodslag,Mes,Man,Man,12,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:PHR:2019:2625,2019,2012,Midden-Nederland,Vrijspraak,Poging tot moord,Vergif,Man,Man,20,Moord,Ontkenning,Observatie,Ruzie,Verstikking,Dood later
+ECLI:NL:RBDHA:2021:1311,2013,2015,Rotterdam,Moord,Moord,Wurging,Man,Vrouw,8,Doodslag,Noodweer,Observatie,Financieel,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2022:9639,2015,2020,Midden-Nederland,Poging tot moord,Moord,Vergif,Man,Man,15,Moord,Geen verweer,Getuigenverklaring,Psychose,Verstikking,Dood later
+ECLI:NL:RBDHA:2023:8400,2021,2012,Midden-Nederland,Doodslag,Doodslag,Mes,Man,Vrouw,10,Moord,Ontkenning,Bekentenis,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2023:702,2021,2014,Midden-Nederland,Vrijspraak,Doodslag,Mes,Man,Vrouw,20,Doodslag,Noodweer,Observatie,Ruzie,Vergiftiging,Dood later
+ECLI:NL:GHARL:2023:9829,2013,2016,Oost-Nederland,Moord,Moord,Vuurwapen,Man,Man,8,Moord,Ontkenning,Getuigenverklaring,Financieel,Steekpartij,Zwaar gewond
+ECLI:NL:HR:2016:4167,2020,2018,Rotterdam,Doodslag,Moord,Mes,Man,Man,15,Moord,Geen verweer,Bekentenis,Relatieproblemen,Steekpartij,Zwaar gewond
+ECLI:NL:GHARL:2017:825,2018,2018,Amsterdam,Doodslag,Moord,Vuurwapen,Man,Man,10,Doodslag,Noodweer,Observatie,Psychose,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2020:7152,2020,2016,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,15,Moord,Ontkenning,Forensisch bewijs,Financieel,Verstikking,Dood later
+ECLI:NL:HR:2015:1715,2022,2020,Midden-Nederland,Moord,Poging tot moord,Mes,Man,Man,12,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:GHARL:2018:8466,2017,2021,Noord-Nederland,Doodslag,Doodslag,Mes,Man,Man,15,Doodslag,Geen verweer,Getuigenverklaring,Financieel,Steekpartij,Dood later
+ECLI:NL:PHR:2022:6229,2020,2015,Oost-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Man,20,Moord,Noodweer,Observatie,Financieel,Schietpartij,Dood later
+ECLI:NL:RBDHA:2022:9743,2015,2022,Amsterdam,Vrijspraak,Doodslag,Anders,Man,Vrouw,8,Moord,Geen verweer,Getuigenverklaring,Psychose,Schietpartij,Dood direct
+ECLI:NL:PHR:2020:502,2018,2020,Midden-Nederland,Moord,Moord,Mes,Man,Man,12,Moord,Ontkenning,Forensisch bewijs,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:RBDHA:2016:4940,2014,2013,Rotterdam,Poging tot moord,Doodslag,Mes,Man,Man,12,Moord,Geen verweer,Getuigenverklaring,Ruzie,Verstikking,Dood later
+ECLI:NL:RBDHA:2016:2001,2012,2020,Rotterdam,Moord,Poging tot moord,Vuurwapen,Vrouw,Man,10,Moord,Ontkenning,Getuigenverklaring,Psychose,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2020:5210,2020,2020,Oost-Nederland,Moord,Moord,Mes,Vrouw,Vrouw,8,Moord,Geen verweer,Getuigenverklaring,Psychose,Steekpartij,Geen letsel
+ECLI:NL:GHARL:2022:3489,2018,2016,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,8,Doodslag,Geen verweer,Getuigenverklaring,Ruzie,Verstikking,Dood direct
+ECLI:NL:RBDHA:2020:7901,2012,2023,Oost-Nederland,Poging tot moord,Doodslag,Vuurwapen,Man,Man,20,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:HR:2022:7512,2014,2016,Midden-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,10,Moord,Geen verweer,Forensisch bewijs,Psychose,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2016:5019,2011,2017,Midden-Nederland,Poging tot moord,Poging tot moord,Vuurwapen,Man,Man,10,Doodslag,Noodweer,Bekentenis,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:HR:2016:470,2017,2013,Amsterdam,Moord,Poging tot moord,Mes,Man,Vrouw,15,Moord,Noodweer,Bekentenis,Ruzie,Steekpartij,Dood direct
+ECLI:NL:GHARL:2016:2792,2012,2011,Rotterdam,Vrijspraak,Poging tot moord,Vergif,Man,Vrouw,20,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:PHR:2023:2958,2021,2016,Oost-Nederland,Moord,Doodslag,Wurging,Man,Man,10,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Steekpartij,Dood direct
+ECLI:NL:PHR:2020:9272,2014,2014,Oost-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,8,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2022:3898,2021,2023,Rotterdam,Moord,Moord,Mes,Man,Man,10,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2017:3153,2022,2014,Midden-Nederland,Doodslag,Doodslag,Mes,Man,Man,15,Doodslag,Geen verweer,Bekentenis,Ruzie,Schietpartij,Dood direct
+ECLI:NL:RBDHA:2021:578,2018,2022,Midden-Nederland,Moord,Doodslag,Vuurwapen,Man,Man,20,Moord,Noodweer,Forensisch bewijs,Relatieproblemen,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2022:9802,2022,2022,Amsterdam,Moord,Doodslag,Vuurwapen,Man,Man,15,Doodslag,Noodweer,Bekentenis,Psychose,Schietpartij,Dood later
+ECLI:NL:RBDHA:2021:172,2012,2021,Noord-Nederland,Doodslag,Doodslag,Anders,Man,Vrouw,20,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2018:4660,2020,2017,Rotterdam,Doodslag,Poging tot moord,Mes,Man,Vrouw,20,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:HR:2016:8896,2015,2015,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,10,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Schietpartij,Dood direct
+ECLI:NL:PHR:2020:5440,2020,2024,Midden-Nederland,Moord,Doodslag,Anders,Man,Man,8,Moord,Geen verweer,Bekentenis,Ruzie,Schietpartij,Dood direct
+ECLI:NL:PHR:2022:1967,2011,2016,Midden-Nederland,Vrijspraak,Poging tot moord,Vergif,Man,Man,15,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Steekpartij,Geen letsel
+ECLI:NL:GHARL:2022:8746,2013,2013,Oost-Nederland,Doodslag,Doodslag,Mes,Man,Man,12,Doodslag,Geen verweer,Observatie,Financieel,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2021:6531,2015,2021,Midden-Nederland,Doodslag,Doodslag,Anders,Man,Vrouw,15,Moord,Ontkenning,Forensisch bewijs,Ruzie,Verstikking,Dood later
+ECLI:NL:HR:2020:5866,2013,2022,Midden-Nederland,Moord,Moord,Vuurwapen,Man,Man,12,Doodslag,Geen verweer,Observatie,Ruzie,Steekpartij,Dood later
+ECLI:NL:RBDHA:2017:4973,2021,2016,Amsterdam,Doodslag,Moord,Anders,Man,Man,12,Doodslag,Noodweer,Bekentenis,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:HR:2017:5231,2014,2018,Rotterdam,Vrijspraak,Poging tot moord,Wurging,Vrouw,Vrouw,10,Moord,Noodweer,Forensisch bewijs,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:HR:2018:5103,2016,2018,Midden-Nederland,Poging tot moord,Doodslag,Wurging,Man,Vrouw,8,Doodslag,Ontkenning,Forensisch bewijs,Financieel,Verstikking,Dood later
+ECLI:NL:HR:2017:6216,2022,2018,Oost-Nederland,Vrijspraak,Doodslag,Anders,Man,Man,12,Moord,Geen verweer,Bekentenis,Ruzie,Steekpartij,Dood direct
+ECLI:NL:PHR:2023:6464,2015,2016,Amsterdam,Poging tot moord,Doodslag,Wurging,Man,Man,20,Moord,Noodweer,Observatie,Psychose,Verstikking,Geen letsel
+ECLI:NL:RBDHA:2017:9517,2015,2023,Midden-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,20,Doodslag,Ontkenning,Bekentenis,Relatieproblemen,Vergiftiging,Geen letsel
+ECLI:NL:RBDHA:2021:3143,2014,2015,Noord-Nederland,Vrijspraak,Doodslag,Wurging,Man,Man,15,Moord,Ontkenning,Forensisch bewijs,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2023:2938,2019,2018,Noord-Nederland,Doodslag,Poging tot moord,Vergif,Vrouw,Man,8,Doodslag,Ontkenning,Bekentenis,Wraak,Verstikking,Dood later
+ECLI:NL:PHR:2022:4832,2014,2019,Midden-Nederland,Moord,Moord,Vuurwapen,Man,Vrouw,12,Moord,Noodweer,Bekentenis,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:PHR:2017:5254,2017,2012,Amsterdam,Vrijspraak,Moord,Vergif,Vrouw,Man,10,Doodslag,Ontkenning,Bekentenis,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2015:5982,2011,2013,Amsterdam,Moord,Moord,Vuurwapen,Man,Man,20,Doodslag,Ontkenning,Forensisch bewijs,Ruzie,Schietpartij,Geen letsel
+ECLI:NL:HR:2022:2336,2017,2021,Amsterdam,Poging tot moord,Doodslag,Vuurwapen,Man,Vrouw,15,Doodslag,Geen verweer,Observatie,Ruzie,Vergiftiging,Dood later
+ECLI:NL:PHR:2021:9300,2010,2020,Midden-Nederland,Moord,Moord,Wurging,Man,Man,20,Moord,Ontkenning,Getuigenverklaring,Financieel,Verstikking,Geen letsel
+ECLI:NL:RBDHA:2021:8156,2020,2012,Midden-Nederland,Moord,Moord,Vuurwapen,Man,Man,15,Doodslag,Geen verweer,Forensisch bewijs,Ruzie,Schietpartij,Dood later
+ECLI:NL:RBDHA:2022:8106,2019,2024,Midden-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,12,Moord,Geen verweer,Forensisch bewijs,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2016:9363,2019,2015,Amsterdam,Doodslag,Doodslag,Wurging,Vrouw,Man,10,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2018:4885,2019,2024,Noord-Nederland,Vrijspraak,Doodslag,Mes,Man,Vrouw,12,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:HR:2019:3783,2011,2024,Oost-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Man,15,Doodslag,Ontkenning,Getuigenverklaring,Psychose,Vergiftiging,Geen letsel
+ECLI:NL:GHARL:2017:7592,2017,2013,Oost-Nederland,Doodslag,Doodslag,Anders,Man,Man,15,Doodslag,Geen verweer,Bekentenis,Psychose,Verstikking,Dood direct
+ECLI:NL:RBDHA:2023:8469,2013,2019,Noord-Nederland,Moord,Moord,Mes,Vrouw,Man,20,Doodslag,Noodweer,Forensisch bewijs,Financieel,Vergiftiging,Dood direct
+ECLI:NL:HR:2016:4489,2018,2014,Rotterdam,Poging tot moord,Moord,Wurging,Vrouw,Man,20,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Vergiftiging,Zwaar gewond
+ECLI:NL:GHARL:2023:781,2011,2015,Amsterdam,Doodslag,Poging tot moord,Vergif,Vrouw,Vrouw,8,Doodslag,Ontkenning,Observatie,Ruzie,Verstikking,Dood direct
+ECLI:NL:RBDHA:2023:3680,2020,2022,Rotterdam,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,8,Doodslag,Noodweer,Getuigenverklaring,Wraak,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2016:4155,2016,2021,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Man,Vrouw,15,Doodslag,Noodweer,Bekentenis,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:GHARL:2015:7468,2018,2012,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Man,Man,8,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2020:1525,2014,2022,Noord-Nederland,Doodslag,Poging tot moord,Wurging,Man,Vrouw,15,Doodslag,Geen verweer,Observatie,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:RBDHA:2016:3982,2016,2012,Amsterdam,Moord,Poging tot moord,Mes,Man,Vrouw,10,Doodslag,Geen verweer,Forensisch bewijs,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:PHR:2020:7115,2010,2011,Noord-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,8,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Steekpartij,Dood later
+ECLI:NL:PHR:2017:3485,2012,2024,Rotterdam,Vrijspraak,Poging tot moord,Mes,Man,Vrouw,10,Moord,Noodweer,Forensisch bewijs,Financieel,Verstikking,Dood direct
+ECLI:NL:PHR:2015:9440,2012,2019,Rotterdam,Moord,Doodslag,Mes,Man,Man,20,Doodslag,Geen verweer,Forensisch bewijs,Financieel,Steekpartij,Geen letsel
+ECLI:NL:GHARL:2023:4705,2013,2021,Rotterdam,Poging tot moord,Moord,Mes,Man,Vrouw,8,Doodslag,Geen verweer,Bekentenis,Financieel,Verstikking,Dood later
+ECLI:NL:PHR:2020:4894,2015,2011,Noord-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,10,Doodslag,Geen verweer,Observatie,Wraak,Steekpartij,Dood later
+ECLI:NL:GHARL:2019:8528,2016,2024,Amsterdam,Doodslag,Poging tot moord,Anders,Man,Vrouw,10,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:HR:2017:6843,2019,2020,Midden-Nederland,Doodslag,Moord,Vuurwapen,Vrouw,Vrouw,15,Doodslag,Geen verweer,Forensisch bewijs,Financieel,Steekpartij,Dood later
+ECLI:NL:HR:2019:2178,2017,2020,Rotterdam,Doodslag,Moord,Anders,Man,Man,8,Doodslag,Geen verweer,Getuigenverklaring,Psychose,Vergiftiging,Zwaar gewond
+ECLI:NL:PHR:2018:2496,2012,2017,Oost-Nederland,Doodslag,Doodslag,Wurging,Vrouw,Vrouw,8,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:GHARL:2018:6534,2015,2023,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,15,Doodslag,Noodweer,Observatie,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2017:9560,2021,2020,Oost-Nederland,Doodslag,Doodslag,Mes,Man,Man,15,Doodslag,Noodweer,Forensisch bewijs,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:GHARL:2021:6246,2012,2014,Noord-Nederland,Vrijspraak,Poging tot moord,Wurging,Man,Man,10,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2016:1625,2022,2011,Oost-Nederland,Doodslag,Moord,Wurging,Man,Vrouw,20,Doodslag,Ontkenning,Observatie,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:RBDHA:2023:4658,2011,2019,Amsterdam,Doodslag,Moord,Vuurwapen,Vrouw,Vrouw,15,Moord,Noodweer,Bekentenis,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:GHARL:2022:8096,2017,2015,Amsterdam,Moord,Moord,Anders,Man,Man,10,Doodslag,Geen verweer,Bekentenis,Financieel,Schietpartij,Zwaar gewond
+ECLI:NL:GHARL:2015:1626,2015,2019,Noord-Nederland,Vrijspraak,Moord,Wurging,Man,Vrouw,20,Moord,Geen verweer,Observatie,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2020:1137,2020,2019,Midden-Nederland,Moord,Poging tot moord,Mes,Man,Man,15,Doodslag,Ontkenning,Observatie,Ruzie,Verstikking,Geen letsel
+ECLI:NL:RBDHA:2018:7139,2012,2018,Noord-Nederland,Moord,Doodslag,Mes,Man,Vrouw,15,Doodslag,Geen verweer,Observatie,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:PHR:2022:4499,2015,2021,Oost-Nederland,Doodslag,Moord,Vergif,Man,Man,8,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Vergiftiging,Dood later
+ECLI:NL:GHARL:2019:5633,2020,2023,Midden-Nederland,Poging tot moord,Poging tot moord,Vuurwapen,Man,Man,12,Doodslag,Geen verweer,Observatie,Ruzie,Vergiftiging,Geen letsel
+ECLI:NL:PHR:2022:5731,2010,2013,Midden-Nederland,Vrijspraak,Poging tot moord,Mes,Man,Man,8,Moord,Geen verweer,Getuigenverklaring,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:HR:2015:1731,2010,2016,Midden-Nederland,Moord,Moord,Vuurwapen,Man,Man,15,Doodslag,Noodweer,Observatie,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:RBDHA:2015:2135,2017,2017,Rotterdam,Doodslag,Moord,Anders,Man,Man,12,Moord,Ontkenning,Getuigenverklaring,Financieel,Vergiftiging,Dood direct
+ECLI:NL:PHR:2022:7579,2014,2014,Amsterdam,Doodslag,Doodslag,Wurging,Vrouw,Man,12,Doodslag,Geen verweer,Bekentenis,Ruzie,Vergiftiging,Dood later
+ECLI:NL:HR:2021:3414,2013,2023,Rotterdam,Moord,Doodslag,Mes,Man,Man,20,Moord,Noodweer,Getuigenverklaring,Relatieproblemen,Vergiftiging,Dood direct
+ECLI:NL:PHR:2019:2704,2022,2020,Oost-Nederland,Poging tot moord,Moord,Wurging,Man,Man,12,Moord,Geen verweer,Getuigenverklaring,Ruzie,Verstikking,Dood later
+ECLI:NL:GHARL:2016:6005,2022,2022,Amsterdam,Vrijspraak,Moord,Wurging,Vrouw,Vrouw,20,Doodslag,Ontkenning,Observatie,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:GHARL:2016:6192,2012,2024,Oost-Nederland,Moord,Moord,Wurging,Man,Vrouw,12,Moord,Noodweer,Forensisch bewijs,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:PHR:2015:6593,2019,2015,Noord-Nederland,Poging tot moord,Doodslag,Vuurwapen,Man,Vrouw,20,Moord,Geen verweer,Forensisch bewijs,Financieel,Verstikking,Zwaar gewond
+ECLI:NL:GHARL:2018:7132,2022,2013,Amsterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Man,10,Doodslag,Noodweer,Observatie,Ruzie,Schietpartij,Dood later
+ECLI:NL:HR:2016:117,2012,2018,Amsterdam,Doodslag,Moord,Vuurwapen,Man,Vrouw,10,Moord,Noodweer,Forensisch bewijs,Ruzie,Steekpartij,Dood direct
+ECLI:NL:PHR:2022:1376,2017,2019,Rotterdam,Doodslag,Poging tot moord,Mes,Man,Vrouw,12,Doodslag,Ontkenning,Observatie,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:PHR:2018:8610,2022,2019,Noord-Nederland,Moord,Moord,Vergif,Man,Man,20,Doodslag,Geen verweer,Getuigenverklaring,Relatieproblemen,Vergiftiging,Zwaar gewond
+ECLI:NL:RBDHA:2015:232,2022,2012,Rotterdam,Moord,Moord,Mes,Man,Vrouw,10,Doodslag,Ontkenning,Forensisch bewijs,Relatieproblemen,Schietpartij,Dood later
+ECLI:NL:GHARL:2016:7019,2022,2017,Rotterdam,Moord,Poging tot moord,Mes,Man,Man,20,Doodslag,Geen verweer,Bekentenis,Relatieproblemen,Verstikking,Zwaar gewond
+ECLI:NL:PHR:2022:1260,2011,2016,Midden-Nederland,Doodslag,Doodslag,Wurging,Man,Vrouw,12,Moord,Noodweer,Getuigenverklaring,Relatieproblemen,Slag met voorwerp,Zwaar gewond
+ECLI:NL:PHR:2021:1563,2012,2019,Noord-Nederland,Moord,Poging tot moord,Mes,Man,Man,20,Doodslag,Noodweer,Getuigenverklaring,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:HR:2016:5233,2019,2011,Rotterdam,Moord,Poging tot moord,Mes,Man,Vrouw,20,Doodslag,Ontkenning,Getuigenverklaring,Relatieproblemen,Verstikking,Dood direct
+ECLI:NL:GHARL:2019:2346,2016,2021,Rotterdam,Moord,Poging tot moord,Mes,Man,Man,12,Moord,Ontkenning,Bekentenis,Financieel,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2017:2440,2020,2014,Midden-Nederland,Doodslag,Doodslag,Vuurwapen,Man,Man,15,Doodslag,Ontkenning,Observatie,Ruzie,Verstikking,Dood direct
+ECLI:NL:HR:2023:9328,2016,2024,Oost-Nederland,Moord,Doodslag,Vergif,Man,Vrouw,15,Moord,Noodweer,Observatie,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:HR:2017:7310,2016,2023,Midden-Nederland,Doodslag,Poging tot moord,Anders,Man,Man,10,Moord,Geen verweer,Observatie,Ruzie,Vergiftiging,Dood later
+ECLI:NL:GHARL:2018:2580,2016,2020,Rotterdam,Doodslag,Moord,Mes,Man,Man,12,Moord,Geen verweer,Getuigenverklaring,Ruzie,Vergiftiging,Dood direct
+ECLI:NL:RBDHA:2022:3659,2017,2021,Amsterdam,Doodslag,Moord,Mes,Man,Vrouw,10,Doodslag,Ontkenning,Bekentenis,Relatieproblemen,Slag met voorwerp,Dood direct
+ECLI:NL:HR:2016:2393,2016,2013,Noord-Nederland,Doodslag,Doodslag,Wurging,Man,Man,10,Doodslag,Noodweer,Observatie,Financieel,Schietpartij,Zwaar gewond
+ECLI:NL:HR:2021:5859,2010,2023,Rotterdam,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,20,Doodslag,Ontkenning,Observatie,Relatieproblemen,Slag met voorwerp,Geen letsel
+ECLI:NL:RBDHA:2020:2390,2010,2019,Rotterdam,Doodslag,Poging tot moord,Wurging,Man,Man,15,Doodslag,Noodweer,Getuigenverklaring,Psychose,Schietpartij,Geen letsel
+ECLI:NL:PHR:2019:1480,2018,2013,Rotterdam,Poging tot moord,Poging tot moord,Mes,Man,Vrouw,8,Doodslag,Geen verweer,Observatie,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2023:9946,2013,2018,Oost-Nederland,Doodslag,Moord,Mes,Man,Vrouw,12,Moord,Ontkenning,Getuigenverklaring,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:GHARL:2015:5042,2021,2013,Amsterdam,Doodslag,Moord,Mes,Man,Man,15,Moord,Geen verweer,Bekentenis,Ruzie,Schietpartij,Dood direct
+ECLI:NL:PHR:2023:8448,2015,2013,Amsterdam,Moord,Doodslag,Mes,Man,Vrouw,10,Moord,Noodweer,Getuigenverklaring,Financieel,Schietpartij,Dood direct
+ECLI:NL:PHR:2021:4942,2010,2020,Amsterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Man,10,Moord,Ontkenning,Getuigenverklaring,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:HR:2018:8208,2015,2020,Midden-Nederland,Doodslag,Poging tot moord,Wurging,Vrouw,Man,15,Moord,Geen verweer,Observatie,Ruzie,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2016:4049,2022,2021,Rotterdam,Moord,Moord,Mes,Man,Vrouw,8,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Vergiftiging,Geen letsel
+ECLI:NL:RBDHA:2016:8755,2018,2024,Amsterdam,Vrijspraak,Moord,Wurging,Man,Vrouw,8,Moord,Noodweer,Getuigenverklaring,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:HR:2020:5285,2013,2013,Rotterdam,Poging tot moord,Doodslag,Mes,Vrouw,Man,12,Doodslag,Ontkenning,Forensisch bewijs,Psychose,Steekpartij,Dood later
+ECLI:NL:PHR:2021:9412,2010,2022,Oost-Nederland,Doodslag,Doodslag,Anders,Vrouw,Man,10,Moord,Ontkenning,Observatie,Financieel,Verstikking,Dood direct
+ECLI:NL:RBDHA:2020:9051,2020,2022,Rotterdam,Vrijspraak,Poging tot moord,Vuurwapen,Man,Vrouw,10,Moord,Ontkenning,Bekentenis,Financieel,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2022:1295,2010,2018,Oost-Nederland,Doodslag,Moord,Mes,Man,Man,8,Moord,Geen verweer,Getuigenverklaring,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:HR:2016:325,2020,2016,Midden-Nederland,Moord,Doodslag,Vuurwapen,Man,Vrouw,20,Doodslag,Geen verweer,Observatie,Ruzie,Verstikking,Geen letsel
+ECLI:NL:GHARL:2018:752,2021,2011,Rotterdam,Poging tot moord,Doodslag,Vuurwapen,Vrouw,Vrouw,15,Doodslag,Geen verweer,Getuigenverklaring,Financieel,Steekpartij,Dood direct
+ECLI:NL:HR:2021:8400,2013,2014,Noord-Nederland,Poging tot moord,Moord,Wurging,Man,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Financieel,Steekpartij,Dood direct
+ECLI:NL:GHARL:2023:6906,2013,2023,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Man,Man,8,Moord,Ontkenning,Observatie,Wraak,Steekpartij,Dood direct
+ECLI:NL:RBDHA:2021:1450,2021,2018,Noord-Nederland,Moord,Doodslag,Vergif,Man,Man,8,Doodslag,Geen verweer,Observatie,Wraak,Steekpartij,Zwaar gewond
+ECLI:NL:PHR:2019:1469,2015,2014,Midden-Nederland,Doodslag,Doodslag,Wurging,Vrouw,Vrouw,20,Doodslag,Geen verweer,Bekentenis,Ruzie,Schietpartij,Geen letsel
+ECLI:NL:GHARL:2016:8477,2014,2012,Noord-Nederland,Poging tot moord,Poging tot moord,Mes,Vrouw,Man,15,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Slag met voorwerp,Dood direct
+ECLI:NL:PHR:2017:8888,2012,2015,Oost-Nederland,Doodslag,Moord,Vuurwapen,Vrouw,Vrouw,20,Moord,Ontkenning,Bekentenis,Ruzie,Verstikking,Dood direct
+ECLI:NL:GHARL:2021:9708,2011,2016,Amsterdam,Doodslag,Poging tot moord,Vergif,Man,Man,10,Doodslag,Noodweer,Getuigenverklaring,Ruzie,Verstikking,Zwaar gewond
+ECLI:NL:HR:2019:7267,2016,2014,Rotterdam,Vrijspraak,Doodslag,Wurging,Man,Man,8,Moord,Geen verweer,Getuigenverklaring,Ruzie,Verstikking,Dood later
+ECLI:NL:PHR:2015:4105,2018,2011,Oost-Nederland,Poging tot moord,Doodslag,Anders,Man,Vrouw,12,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Steekpartij,Dood direct
+ECLI:NL:HR:2021:2000,2019,2021,Rotterdam,Moord,Moord,Vuurwapen,Man,Man,20,Moord,Noodweer,Getuigenverklaring,Psychose,Verstikking,Dood later
+ECLI:NL:RBDHA:2015:5167,2014,2014,Noord-Nederland,Doodslag,Doodslag,Mes,Vrouw,Man,10,Doodslag,Ontkenning,Getuigenverklaring,Ruzie,Slag met voorwerp,Geen letsel
+ECLI:NL:PHR:2016:307,2012,2019,Oost-Nederland,Doodslag,Poging tot moord,Wurging,Man,Man,12,Moord,Ontkenning,Observatie,Financieel,Schietpartij,Dood later
+ECLI:NL:PHR:2015:2784,2011,2023,Rotterdam,Doodslag,Doodslag,Mes,Man,Vrouw,8,Moord,Ontkenning,Observatie,Relatieproblemen,Verstikking,Zwaar gewond
+ECLI:NL:RBDHA:2020:8668,2010,2016,Amsterdam,Vrijspraak,Doodslag,Vuurwapen,Man,Man,10,Doodslag,Noodweer,Bekentenis,Ruzie,Verstikking,Dood later
+ECLI:NL:GHARL:2017:6192,2014,2017,Noord-Nederland,Doodslag,Moord,Vuurwapen,Vrouw,Vrouw,12,Doodslag,Geen verweer,Forensisch bewijs,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2019:2034,2014,2018,Midden-Nederland,Moord,Poging tot moord,Vuurwapen,Man,Vrouw,12,Moord,Geen verweer,Getuigenverklaring,Ruzie,Schietpartij,Dood direct
+ECLI:NL:HR:2020:7134,2017,2018,Noord-Nederland,Moord,Doodslag,Wurging,Man,Vrouw,15,Doodslag,Noodweer,Getuigenverklaring,Psychose,Steekpartij,Zwaar gewond
+ECLI:NL:GHARL:2023:1146,2021,2011,Noord-Nederland,Doodslag,Moord,Mes,Man,Vrouw,20,Moord,Noodweer,Getuigenverklaring,Ruzie,Slag met voorwerp,Zwaar gewond
+ECLI:NL:GHARL:2016:8228,2018,2011,Oost-Nederland,Doodslag,Poging tot moord,Mes,Man,Man,12,Doodslag,Ontkenning,Getuigenverklaring,Wraak,Vergiftiging,Dood later
+ECLI:NL:RBDHA:2023:6000,2019,2021,Oost-Nederland,Moord,Doodslag,Vuurwapen,Man,Vrouw,12,Doodslag,Noodweer,Bekentenis,Relatieproblemen,Steekpartij,Dood later
+ECLI:NL:HR:2022:9387,2018,2016,Amsterdam,Poging tot moord,Doodslag,Mes,Vrouw,Man,20,Doodslag,Geen verweer,Observatie,Wraak,Vergiftiging,Dood direct
+ECLI:NL:PHR:2020:2677,2015,2012,Amsterdam,Moord,Doodslag,Mes,Man,Vrouw,15,Moord,Geen verweer,Getuigenverklaring,Relatieproblemen,Schietpartij,Dood direct
+ECLI:NL:GHARL:2016:9502,2016,2022,Rotterdam,Moord,Poging tot moord,Mes,Man,Vrouw,12,Moord,Geen verweer,Forensisch bewijs,Relatieproblemen,Vergiftiging,Dood later
+ECLI:NL:HR:2018:8436,2020,2019,Amsterdam,Doodslag,Poging tot moord,Vuurwapen,Man,Man,20,Doodslag,Noodweer,Getuigenverklaring,Psychose,Slag met voorwerp,Dood later
+ECLI:NL:HR:2015:301,2012,2021,Noord-Nederland,Doodslag,Doodslag,Wurging,Man,Man,20,Doodslag,Noodweer,Forensisch bewijs,Relatieproblemen,Verstikking,Dood later
+ECLI:NL:PHR:2015:7829,2015,2024,Rotterdam,Doodslag,Moord,Vuurwapen,Man,Vrouw,10,Moord,Geen verweer,Observatie,Ruzie,Steekpartij,Dood direct
+ECLI:NL:GHARL:2021:2558,2017,2015,Midden-Nederland,Moord,Moord,Anders,Man,Man,8,Moord,Geen verweer,Bekentenis,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:PHR:2015:9158,2015,2024,Amsterdam,Doodslag,Moord,Anders,Man,Vrouw,20,Moord,Ontkenning,Forensisch bewijs,Ruzie,Schietpartij,Zwaar gewond
+ECLI:NL:RBDHA:2018:5372,2022,2022,Amsterdam,Moord,Poging tot moord,Anders,Man,Man,10,Doodslag,Noodweer,Bekentenis,Ruzie,Verstikking,Dood later
+ECLI:NL:PHR:2021:5341,2013,2015,Noord-Nederland,Doodslag,Poging tot moord,Vuurwapen,Man,Vrouw,8,Moord,Ontkenning,Forensisch bewijs,Financieel,Vergiftiging,Dood later
+ECLI:NL:GHARL:2016:9464,2012,2020,Midden-Nederland,Doodslag,Moord,Vuurwapen,Man,Vrouw,10,Doodslag,Geen verweer,Bekentenis,Financieel,Slag met voorwerp,Dood later
+ECLI:NL:GHARL:2016:8325,2022,2019,Rotterdam,Poging tot moord,Moord,Wurging,Man,Vrouw,12,Doodslag,Ontkenning,Observatie,Ruzie,Slag met voorwerp,Dood later
+ECLI:NL:HR:2017:3756,2016,2020,Noord-Nederland,Poging tot moord,Poging tot moord,Vuurwapen,Man,Vrouw,10,Doodslag,Geen verweer,Observatie,Ruzie,Verstikking,Dood later
+ECLI:NL:HR:2021:1229,2010,2013,Oost-Nederland,Doodslag,Moord,Vuurwapen,Man,Man,12,Moord,Geen verweer,Forensisch bewijs,Financieel,Verstikking,Dood direct
+ECLI:NL:RBDHA:2019:5190,2013,2017,Midden-Nederland,Moord,Moord,Mes,Man,Vrouw,20,Doodslag,Noodweer,Bekentenis,Financieel,Verstikking,Dood later
