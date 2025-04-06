@@ -8,7 +8,7 @@ st.set_page_config(page_title="Analyse van Arresten", layout="wide", page_icon="
 
 @st.cache_data
 def load_data():
-    pad = r"C:\\Users\\Rob\\Desktop\\Fictieve_Strafzaken_Dataset_1000.csv"
+    pad = "Fictieve_Strafzaken_Dataset_1000.csv"  # Relatief pad
     try:
         return pd.read_csv(pad)
     except FileNotFoundError:
