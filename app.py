@@ -216,7 +216,7 @@ with tab2:
 with tab3:
     st.markdown("### 🔍 Bewijslast per ECLI")
 
-    bewijs_path = r"C:\\Users\\Rob\\Desktop\\bewijsmiddelen_ai_all_hersteld.xlsx"
+    bewijs_path = "bewijsmiddelen_ai_all_hersteld.xlsx"
     try:
         bewijs_df = pd.read_excel(bewijs_path)
         bewijs_df.columns = bewijs_df.columns.str.strip()
