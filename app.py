@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from streamlit_plotly_events import plotly_events
 import os
 
 st.set_page_config(page_title="Analyse van Arresten", layout="wide", page_icon="⚖️")
