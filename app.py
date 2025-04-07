@@ -2,13 +2,14 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+from streamlit_plotly_events import plotly_events
 import os
 
 st.set_page_config(page_title="Analyse van Arresten", layout="wide", page_icon="⚖️")
 
 @st.cache_data
 def load_data():
-    pad = "Fictieve_Strafzaken_Dataset_1000.csv"  # Relatief pad
+    pad = "Fictieve_Strafzaken_Dataset_1000.csv"
     try:
         return pd.read_csv(pad)
     except FileNotFoundError:
@@ -18,14 +19,14 @@ def load_data():
 df = load_data()
 
 st.title("⚖️ Analyse van Arresten")
-st.caption("🧪 Deze dataset is volledig fictief en bedoeld voor demonstratiedoeleinden.")
+st.caption("🧪 Deze dataset is volledig fictief (op tabblad Bewijslast na) en bedoeld voor demonstratiedoeleinden.")
 
 with st.expander("ℹ️ Wat kun je hier doen?"):
     st.markdown("""
     Deze applicatie helpt je inzicht te krijgen in patronen binnen fictieve strafzaken.
 
     🔍 **Wat kun je verkennen?**
-    - De samenhang tussen aanleiding, gedraging, gevolg en veroordeling
+    - De samenhang tussen bijvoorbeeld aanleiding, gedraging, gevolg en veroordeling
     - Verschillen tussen regio’s, geslacht, en delictvormen
     - Gebruik van bewijsmiddelen per zaak (ECLI)
 
@@ -88,15 +89,16 @@ if st.sidebar.button("⛔ Stop de app"):
     os._exit(0)
 
 # === TABS OPZETTEN ===
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
+tab_keuze = st.radio("📂 Kies een weergave", [
     "⚖️ Groepsvergelijking", 
     "📊 Algemene Analyses", 
     "🔍 Bewijslast", 
     "🛠️ DIY Visualisaties", 
-    "📄 Lijst van ECLI's"])
+    "📄 Lijst van ECLI's"
+], horizontal=True)
 
 # === TAB 1: GROEPSVERGELIJKING ===
-with tab1:
+if tab_keuze == "⚖️ Groepsvergelijking":
     st.markdown("### ⚖️ Vergelijk twee groepen op basis van een variabele")
 
     vergelijk_dimensie = st.selectbox("Kies variabele om groepen te splitsen:", [
@@ -147,7 +149,7 @@ with tab1:
             st.plotly_chart(px.box(data_rechts, y="strafmaat"), use_container_width=True, key="g2_strafmaat")
 
 # === TAB 2: ALGEMENE ANALYSES ===
-with tab2:
+elif tab_keuze == "📊 Algemene Analyses":
     st.markdown("### 📊 Algemene Analyses")
 
     with st.expander("📅 Algemeen"):
@@ -212,11 +214,11 @@ with tab2:
         else:
             st.warning("De vereiste kolommen 'aanleiding', 'gedraging', 'gevolg' en 'veroordeling' ontbreken in de dataset.")
 
-# === TAB 3: BEWIJSLAST ===
-with tab3:
+elif tab_keuze == "🔍 Bewijslast":
     st.markdown("### 🔍 Bewijslast per ECLI")
 
     bewijs_path = "bewijsmiddelen_ai_all_hersteld.xlsx"
+
     try:
         bewijs_df = pd.read_excel(bewijs_path)
         bewijs_df.columns = bewijs_df.columns.str.strip()
@@ -233,6 +235,7 @@ with tab3:
         unieke_sub = sorted(bewijs_df['Subcategorie'].unique())
         unieke_hoofd = sorted(bewijs_df['Hoofdcategorie'].unique())
 
+        gefilterd = pd.DataFrame()
         if ecli_selectie == "Totaaloverzicht":
             heatmap_data = pd.DataFrame(0, index=unieke_sub, columns=unieke_hoofd)
             for _, row in bewijs_df.iterrows():
@@ -240,6 +243,44 @@ with tab3:
                 hoofd = row['Hoofdcategorie']
                 if sub in heatmap_data.index and hoofd in heatmap_data.columns:
                     heatmap_data.loc[sub, hoofd] += 1
+
+            st.markdown("#### 🔹 Heatmap (alle bewijsstukken)")
+            fig = go.Figure(data=go.Heatmap(
+                z=heatmap_data.values,
+                x=heatmap_data.columns,
+                y=heatmap_data.index,
+                colorscale='YlGnBu',
+                colorbar=dict(title="Aantal"),
+                hoverongaps=False
+            ))
+            fig.update_layout(
+                font=dict(family="Calibri", size=12),
+                xaxis_title="Hoofdcategorie",
+                yaxis_title="Subcategorie",
+                xaxis=dict(tickangle=45),
+                yaxis=dict(automargin=True, dtick=1),
+                margin=dict(l=200, r=20, t=60, b=60),
+                height=1400
+            )
+            st.plotly_chart(fig, use_container_width=True)
+
+            st.markdown("#### 🔹 Top 15 Hoofdcategorieën")
+            top_hoofd = bewijs_df['Hoofdcategorie'].value_counts().nlargest(15).reset_index()
+            top_hoofd.columns = ['Hoofdcategorie', 'Aantal']
+            st.plotly_chart(px.bar(top_hoofd, x='Hoofdcategorie', y='Aantal').update_layout(yaxis=dict(autorange="reversed")), use_container_width=True)
+
+            st.markdown("#### 🔹 Top 15 Subcategorieën")
+            top_sub = bewijs_df['Subcategorie'].value_counts().nlargest(15).reset_index()
+            top_sub.columns = ['Subcategorie', 'Aantal']
+            st.plotly_chart(px.bar(top_sub, x='Subcategorie', y='Aantal').update_layout(yaxis=dict(autorange="reversed")), use_container_width=True)
+
+            st.markdown("#### 🔹 Bekijk bewijsstukken per subcategorie")
+            gekozen_sub = st.selectbox("Kies een subcategorie:", unieke_sub)
+            subset = bewijs_df[bewijs_df['Subcategorie'] == gekozen_sub]
+            if not subset.empty and 'Bewijsstuk' in subset.columns:
+                st.dataframe(subset[['ECLI', 'Hoofdcategorie', 'Subcategorie', 'Bewijsstuk']].dropna().reset_index(drop=True), use_container_width=True)
+            else:
+                st.info("Geen bewijsstukken gevonden voor deze subcategorie of kolom 'Bewijsstuk' ontbreekt.")
 
         elif ecli_selectie == "Totaaloverzicht 2 (unieke zaken)":
             unieke_zaken = bewijs_df[['ECLI', 'Subcategorie', 'Hoofdcategorie']].drop_duplicates()
@@ -252,43 +293,43 @@ with tab3:
                 aggfunc='sum',
                 fill_value=0
             )
-        else:
-            gefilterd = bewijs_df[bewijs_df['ECLI'] == ecli_selectie]
-            heatmap_data = pd.DataFrame(0, index=unieke_sub, columns=unieke_hoofd)
-            for _, row in gefilterd.iterrows():
-                sub = row['Subcategorie']
-                hoofd = row['Hoofdcategorie']
-                if sub in heatmap_data.index and hoofd in heatmap_data.columns:
-                    heatmap_data.loc[sub, hoofd] += 1
 
-        customdata = [[f"{y}|||{x}" for x in heatmap_data.columns] for y in heatmap_data.index]
+            st.markdown("#### 🔹 Heatmap (unieke zaken)")
+            fig = go.Figure(data=go.Heatmap(
+                z=heatmap_data.values,
+                x=heatmap_data.columns,
+                y=heatmap_data.index,
+                colorscale='YlGnBu',
+                colorbar=dict(title="Aantal"),
+                hoverongaps=False
+            ))
+            fig.update_layout(
+                font=dict(family="Calibri", size=12),
+                xaxis_title="Hoofdcategorie",
+                yaxis_title="Subcategorie",
+                xaxis=dict(tickangle=45),
+                yaxis=dict(automargin=True, dtick=1),
+                margin=dict(l=200, r=20, t=60, b=60),
+                height=1400
+            )
+            st.plotly_chart(fig, use_container_width=True)
 
-        fig = go.Figure(data=go.Heatmap(
-            z=heatmap_data.values,
-            x=heatmap_data.columns,
-            y=heatmap_data.index,
-            colorscale='YlGnBu',
-            colorbar=dict(title="Aantal"),
-            customdata=customdata,
-            hovertemplate="<b>Subcategorie</b>: %{y}<br><b>Hoofdcategorie</b>: %{x}<br><b>Aantal</b>: %{z}<extra></extra>"
-        ))
+            st.markdown("#### 🔹 Top 15 Hoofdcategorieën (unieke zaken)")
+            top_hoofd = unieke_zaken['Hoofdcategorie'].value_counts().nlargest(15).reset_index()
+            top_hoofd.columns = ['Hoofdcategorie', 'Aantal']
+            st.plotly_chart(px.bar(top_hoofd, x='Hoofdcategorie', y='Aantal').update_layout(yaxis=dict(autorange="reversed")), use_container_width=True)
 
-        fig.update_layout(
-            font=dict(family="Calibri", size=12),
-            xaxis_title="Hoofdcategorie",
-            yaxis_title="Subcategorie",
-            xaxis=dict(tickangle=45),
-            margin=dict(l=80, r=20, t=60, b=60),
-            height=700
-        )
-
-        st.plotly_chart(fig, use_container_width=True, key="bewijs_heatmap")
+            st.markdown("#### 🔹 Top 15 Subcategorieën (unieke zaken)")
+            top_sub = unieke_zaken['Subcategorie'].value_counts().nlargest(15).reset_index()
+            top_sub.columns = ['Subcategorie', 'Aantal']
+            st.plotly_chart(px.bar(top_sub, x='Subcategorie', y='Aantal').update_layout(yaxis=dict(autorange="reversed")), use_container_width=True)
 
     except FileNotFoundError:
         st.warning("Excelbestand met bewijsmiddelen niet gevonden.")
 
+
 # === TAB 4: DIY VISUALISATIES ===
-with tab4:
+elif tab_keuze == "🛠️ DIY Visualisaties":
     st.markdown("### 🛠️ Speel zelf met de visualisaties")
     with st.expander("ℹ️ Uitleg DIY-gedeelte"):
         st.markdown("""
@@ -381,7 +422,7 @@ with tab4:
             st.warning("Kies twee verschillende kolommen.")
 
 # === TAB 5: LIJST VAN ECLI'S ===
-with tab5:
+elif tab_keuze == "📄 Lijst van ECLI's":
     st.markdown("### 📄 Lijst van ECLI's met filtermogelijkheden")
     if 'ECLI' in df.columns:
         ecli_df = df.copy()
